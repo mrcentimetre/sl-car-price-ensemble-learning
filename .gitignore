@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+data/scrape.log
+.DS_Store
+catboost_info/
+.DS_Store
+VIDEO_SCRIPT.md

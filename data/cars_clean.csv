@@ -1,0 +1,634 @@
+price,brand,model,year,condition,transmission,body,fuel,engine_cc,mileage_km,district,city,is_dealer,brand_model
+10750000,Toyota,Raize,2020,Used,Automatic,Hatchback,Petrol,1000.0,17000.0,Colombo,Dehiwala,1,Toyota Raize
+8650000,Toyota,Yaris,2024,Reconditioned,Automatic,Saloon,Petrol,1000.0,35000.0,Colombo,Colombo 5,1,Toyota Yaris
+20490000,Audi,A3,2024,Reconditioned,Automatic,Saloon,Petrol,1000.0,25000.0,Colombo,Colombo 10,1,Audi A3
+8150000,Honda,Civic,2012,Used,Automatic,Saloon,Petrol,1600.0,142650.0,Colombo,Homagama,0,Honda Civic
+33000000,Ford,Raptor Ranger,2025,Brand New,Automatic,SUV / 4x4,Diesel,2000.0,0.0,Colombo,Nugegoda,1,Ford Raptor Ranger
+31500000,Toyota,Hilux,2026,Brand New,Automatic,SUV / 4x4,Diesel,2800.0,40.0,Gampaha,Negombo,1,Toyota Hilux
+5650000,Suzuki,Celerio,2017,Used,Automatic,Hatchback,Petrol,1000.0,148000.0,Jaffna,Jaffna City,0,Suzuki Celerio
+25500000,Mitsubishi,Libero,2026,Used,Automatic,SUV / 4x4,Petrol,1500.0,13000.0,Colombo,Colombo 7,0,Mitsubishi Libero
+19700000,Kia,Seltos,2026,Brand New,Automatic,Hatchback,Petrol,1500.0,0.0,Colombo,Dehiwala,1,Kia Seltos
+7650000,Suzuki,Wagon R,2024,Used,Automatic,Hatchback,Hybrid,660.0,11000.0,Colombo,Rajagiriya,1,Suzuki Wagon R
+12500000,Honda,City,2022,Used,Automatic,Saloon,Petrol,1000.0,9000.0,Gampaha,Negombo,1,Honda City
+12450000,Hyundai,Venue,2026,Brand New,Automatic,Hatchback,Petrol,1000.0,0.0,Colombo,Dehiwala,1,Hyundai Venue
+11390000,Toyota,Axio,2017,Used,Automatic,Saloon,Hybrid,1500.0,147000.0,Kalutara,Panadura,1,Toyota Axio
+5320000,Suzuki,Celerio,2017,Used,Automatic,Hatchback,Petrol,1000.0,108000.0,Gampaha,Negombo,0,Suzuki Celerio
+78500000,Mitsubishi,Pajero,2026,Brand New,Automatic,SUV / 4x4,Diesel,2400.0,0.0,Colombo,Kohuwala,1,Mitsubishi Pajero
+1690000,Maruti Suzuki,800,2004,Used,Manual,Hatchback,Petrol,800.0,50725.0,Galle,Galle City,0,Maruti Suzuki 800
+11050000,Toyota,Taisor,2026,Brand New,Automatic,SUV / 4x4,Petrol,1000.0,0.0,Ampara,Kalmunai,1,Toyota Taisor
+1250000,Hyundai,Excel,1994,Used,Manual,Saloon,Petrol,1468.0,139000.0,Gampaha,Mirigama,0,Hyundai Excel
+8650000,Toyota,Yaris,2024,Reconditioned,Automatic,Hatchback,Petrol,1000.0,35000.0,Colombo,Colombo 8,1,Toyota Yaris
+7150000,Daihatsu,Mira,2025,Reconditioned,Automatic,Saloon,Petrol,660.0,8000.0,Gampaha,Kadawatha,1,Daihatsu Mira
+7390000,Suzuki,Alto,2025,Reconditioned,Automatic,Saloon,Hybrid,660.0,9000.0,Gampaha,Kadawatha,1,Suzuki Alto
+22500000,Mercedes Benz,C200,2019,Used,Automatic,Saloon,Petrol,1500.0,104000.0,Kurunegala,Kurunegala City,0,Mercedes Benz C200
+5290000,Mercedes Benz,C220,1994,Used,Automatic,Saloon,Diesel,2200.0,215000.0,Colombo,Colombo 4,1,Mercedes Benz C220
+10650000,Toyota,Taisor,2026,Brand New,Automatic,SUV / 4x4,Petrol,998.0,0.0,Colombo,Colombo 2,1,Toyota Taisor
+49750000,Toyota,RAV4,2026,Brand New,Tiptronic,SUV / 4x4,Hybrid,2498.0,0.0,Colombo,Colombo 4,1,Toyota RAV4
+56000000,Toyota,Land Cruiser Prado,2024,Used,Automatic,SUV / 4x4,Petrol,2700.0,9600.0,Colombo,Maharagama,0,Toyota Land Cruiser Prado
+13550000,Toyota,Raize,2026,Brand New,Automatic,SUV / 4x4,Hybrid,1200.0,0.0,Colombo,Nawala,1,Toyota Raize
+18600000,Honda,Vezel,2026,Brand New,Tiptronic,SUV / 4x4,Hybrid,1490.0,0.0,Colombo,Nawala,1,Honda Vezel
+19975000,Honda,Vezel,2026,Brand New,Automatic,SUV / 4x4,Hybrid,1500.0,0.0,Colombo,Kohuwala,1,Honda Vezel
+7800000,Toyota,Pixis,2025,Used,Automatic,Hatchback,Petrol,650.0,3000.0,Gampaha,Gampaha City,1,Toyota Pixis
+11590000,Kia,Sonet,2026,Brand New,Automatic,SUV / 4x4,Petrol,1000.0,0.0,Colombo,Kohuwala,1,Kia Sonet
+7175000,Suzuki,Wagon R,2023,Import,Automatic,Hatchback,Petrol,660.0,9000.0,Kandy,Katugastota,1,Suzuki Wagon R
+7975000,Daihatsu,Taft,2024,Import,Automatic,SUV / 4x4,Petrol,660.0,24000.0,Kandy,Katugastota,1,Daihatsu Taft
+2350000,Toyota,Sprinter,1991,Used,Manual,Saloon,Petrol,1500.0,263037.0,Colombo,Piliyandala,0,Toyota Sprinter
+7275000,Mitsubishi,eK Wagon,2024,Reconditioned,Automatic,Hatchback,Petrol,660.0,15000.0,Kandy,Katugastota,1,Mitsubishi eK Wagon
+13800000,Mitsubishi,Outlander,2014,Used,Automatic,SUV / 4x4,Hybrid,2000.0,180000.0,Kurunegala,Kurunegala City,1,Mitsubishi Outlander
+16900000,Honda,Vezel,2025,Used,Automatic,SUV / 4x4,Hybrid,1500.0,11900.0,Colombo,Colombo 6,0,Honda Vezel
+3290000,Micro,Panda,2015,Used,Manual,Hatchback,Petrol,1000.0,89000.0,Colombo,Piliyandala,1,Micro Panda
+125000000,Lexus,LX600,2024,Used,Automatic,SUV / 4x4,Petrol,3500.0,15000.0,Colombo,Colombo 6,1,Lexus LX600
+9300000,Nissan,X-Trail,2015,Used,Automatic,SUV / 4x4,Hybrid,2000.0,143000.0,Colombo,Maharagama,1,Nissan X-Trail
+10450000,Toyota,Hilux,2006,Used,Automatic,SUV / 4x4,Diesel,3000.0,190000.0,Colombo,Piliyandala,1,Toyota Hilux
+9200000,Toyota,Premio,2007,Used,Automatic,Saloon,Petrol,1500.0,115000.0,Colombo,Kottawa,0,Toyota Premio
+18295000,Honda,Vezel,2026,Brand New,Tiptronic,SUV / 4x4,Hybrid,1490.0,7000.0,Colombo,Colombo 4,1,Honda Vezel
+13425000,Toyota,Raize,2026,Brand New,Automatic,SUV / 4x4,Hybrid,1000.0,15.0,Colombo,Nugegoda,1,Toyota Raize
+4890000,Nissan,Tiida,2007,Used,Automatic,Saloon,Petrol,1500.0,163000.0,Colombo,Piliyandala,1,Nissan Tiida
+9650000,Toyota,Axio,2014,Used,Automatic,Saloon,Hybrid,1490.0,154000.0,Gampaha,Gampaha City,0,Toyota Axio
+11000000,Toyota,Axio,2015,Used,Automatic,Saloon,Hybrid,1500.0,170000.0,Trincomalee,Trincomalee City,0,Toyota Axio
+10200000,Honda,Vezel,2016,Used,Automatic,SUV / 4x4,Hybrid,1500.0,151000.0,Colombo,Athurugiriya,0,Honda Vezel
+18450000,Honda,Vezel,2026,Brand New,Automatic,Hatchback,Hybrid,1500.0,5.0,Colombo,Nugegoda,1,Honda Vezel
+15500000,Honda,CRV,2018,Used,Automatic,SUV / 4x4,Petrol,1490.0,96000.0,Gampaha,Kadawatha,0,Honda CRV
+7850000,Toyota,Vitz,2016,Used,Automatic,,Petrol,990.0,80000.0,Ratnapura,Ratnapura City,0,Toyota Vitz
+12950000,Mitsubishi,Montero,2012,Used,Automatic,SUV / 4x4,Diesel,2500.0,185000.0,Colombo,Pannipitiya,0,Mitsubishi Montero
+18550000,Honda,Vezel,2026,Brand New,Tiptronic,SUV / 4x4,Hybrid,1500.0,0.0,Gampaha,Ja-Ela,1,Honda Vezel
+10275000,Toyota,Yaris,2026,Brand New,Automatic,Hatchback,Petrol,1000.0,30.0,Colombo,Kohuwala,1,Toyota Yaris
+3495000,Perodua,Kenari,2007,Used,Automatic,Hatchback,Petrol,1000.0,106000.0,Colombo,Kohuwala,1,Perodua Kenari
+7975000,Toyota,Aqua,2013,Used,Automatic,Hatchback,Hybrid,1500.0,126000.0,Colombo,Kohuwala,1,Toyota Aqua
+26775000,Audi,Q7,2017,Used,Automatic,SUV / 4x4,Petrol,1500.0,164000.0,Colombo,Kohuwala,1,Audi Q7
+9000000,Nissan,Magnite,2026,Brand New,Tiptronic,Hatchback,Petrol,1000.0,10.0,Colombo,Dehiwala,1,Nissan Magnite
+56500000,Toyota,Land Cruiser Prado,2026,Used,Automatic,SUV / 4x4,Petrol,2700.0,2000.0,Colombo,Colombo 5,1,Toyota Land Cruiser Prado
+12950000,Toyota,Raize,2025,Brand New,Automatic,SUV / 4x4,Hybrid,1190.0,1000.0,Colombo,Kohuwala,1,Toyota Raize
+14200000,Toyota,Raize,2026,Brand New,Automatic,SUV / 4x4,Hybrid,1200.0,0.0,Kalutara,Beruwala,1,Toyota Raize
+5200000,Toyota,Vitz,2007,Used,Automatic,Hatchback,Petrol,1000.0,150000.0,Matara,Matara City,0,Toyota Vitz
+12100000,Kia,Sonet,2026,Brand New,Automatic,SUV / 4x4,Petrol,1000.0,0.0,Colombo,Kohuwala,1,Kia Sonet
+29500000,Toyota,Corolla,2026,Import,Automatic,SUV / 4x4,Hybrid,1800.0,,Colombo,Kohuwala,1,Toyota Corolla
+5700000,Daihatsu,Atrai Wagon,2019,Used,Automatic,MPV,Petrol,650.0,88000.0,Gampaha,Kiribathgoda,0,Daihatsu Atrai Wagon
+9375000,Toyota,Yaris,2024,Reconditioned,Automatic,Hatchback,Petrol,1000.0,4000.0,Gampaha,Kandana,0,Toyota Yaris
+6990000,Suzuki,Wagon R,2018,Used,Automatic,Hatchback,Petrol,660.0,134000.0,Colombo,Moratuwa,0,Suzuki Wagon R
+7400000,Toyota,Axio,2008,Used,Automatic,Saloon,Petrol,1500.0,200000.0,Colombo,Kotte,0,Toyota Axio
+28500000,Mitsubishi,Montero,2014,Used,Automatic,SUV / 4x4,Diesel,3200.0,110000.0,Colombo,Colombo 5,1,Mitsubishi Montero
+11500000,Toyota,Premio,2013,Used,Automatic,Saloon,Petrol,1490.0,185000.0,Matara,Matara City,0,Toyota Premio
+14975000,Toyota,Raize,2025,Brand New,Automatic,SUV / 4x4,Petrol,1000.0,1.0,Gampaha,Kandana,0,Toyota Raize
+6900000,Daihatsu,Mira,2026,Brand New,Automatic,Hatchback,Petrol,650.0,0.0,Kandy,Katugastota,1,Daihatsu Mira
+1265000,Toyota,Corolla,1988,Used,Manual,Station wagon,Petrol,1300.0,319200.0,Kegalle,Kegalle City,0,Toyota Corolla
+15850000,BMW,X1,2016,Used,Automatic,SUV / 4x4,Petrol,1500.0,80000.0,Colombo,Boralesgamuwa,1,BMW X1
+110000000,Nissan,Patrol,2026,Import,Tiptronic,SUV / 4x4,Petrol,3500.0,,Colombo,Nugegoda,1,Nissan Patrol
+7600000,Suzuki,Wagon R,2024,Reconditioned,Automatic,Hatchback,Petrol,660.0,3300.0,Matara,Matara City,1,Suzuki Wagon R
+13525900,Mahindra,Scorpio Pikup,2026,Brand New,Automatic,,Diesel,2179.0,0.0,Vavuniya,Vavuniya City,1,Mahindra Scorpio Pikup
+7622881,Mahindra,Scorpio,2026,Brand New,Manual,,Diesel,2179.0,0.0,Gampaha,Gampaha City,1,Mahindra Scorpio
+950000,Daewoo,Other Model,1993,Used,Manual,Saloon,Petrol,1500.0,85000.0,Polonnaruwa,Polonnaruwa City,0,Daewoo Other Model
+10600000,Toyota,Taisor,2026,Brand New,Automatic,SUV / 4x4,Hybrid,1000.0,0.0,Colombo,Dehiwala,1,Toyota Taisor
+9350000,Daihatsu,Move,2025,Brand New,Automatic,,Petrol,660.0,0.0,Colombo,Dehiwala,1,Daihatsu Move
+8250000,Suzuki,Wagon R,2026,Brand New,Automatic,Hatchback,Petrol,650.0,0.0,Kandy,Katugastota,1,Suzuki Wagon R
+7622881,Mahindra,Scorpio Pikup,2026,Brand New,Manual,,Diesel,2179.0,0.0,Jaffna,Jaffna City,1,Mahindra Scorpio Pikup
+5820000,Toyota,Vitz,2007,Used,Automatic,Hatchback,Petrol,1000.0,156900.0,Gampaha,Ja-Ela,0,Toyota Vitz
+4390000,Nissan,Sunny,2003,Reconditioned,Automatic,Saloon,Petrol,1500.0,183000.0,Kurunegala,Kurunegala City,1,Nissan Sunny
+6748000,Daihatsu,Mira,2025,Brand New,Automatic,Hatchback,Petrol,660.0,0.0,Colombo,Malabe,1,Daihatsu Mira
+1450000,Toyota,Corona,1986,Used,Manual,Saloon,Petrol,1500.0,89620.0,Kandy,Katugastota,0,Toyota Corona
+1900000,Maruti Suzuki,800,2005,Used,Manual,Hatchback,Petrol,800.0,117600.0,Colombo,Kaduwela,0,Maruti Suzuki 800
+10200000,Toyota,Allion,2011,Used,Automatic,Saloon,Petrol,1500.0,177000.0,Colombo,Kohuwala,1,Toyota Allion
+52500000,Toyota,Land Cruiser Sahara,2015,Used,Automatic,SUV / 4x4,Diesel,4550.0,134000.0,Colombo,Kohuwala,1,Toyota Land Cruiser Sahara
+64950000,Toyota,Alphard,2024,Reconditioned,Automatic,MPV,Hybrid,2500.0,4000.0,Colombo,Dehiwala,1,Toyota Alphard
+2400000,Tata,Safari,2003,Used,Manual,SUV / 4x4,Diesel,2000.0,100000.0,Kandy,Katugastota,0,Tata Safari
+4000000,Suzuki,Alto,2015,Used,Manual,Hatchback,Petrol,800.0,80000.0,Colombo,Battaramulla,0,Suzuki Alto
+12500000,Toyota,Crown,2010,Used,Automatic,Saloon,Hybrid,3500.0,142000.0,Colombo,Kotte,1,Toyota Crown
+11275000,Honda,Vezel,2017,Used,Automatic,,Hybrid,1500.0,94000.0,Colombo,Pannipitiya,1,Honda Vezel
+13375000,Toyota,Raize,2025,Brand New,Automatic,,Hybrid,1200.0,0.0,Colombo,Battaramulla,0,Toyota Raize
+4950000,Suzuki,Wagon R,2016,Used,Manual,Hatchback,Petrol,1000.0,116900.0,Ratnapura,Ratnapura City,0,Suzuki Wagon R
+14390000,Toyota,Raize,2026,Brand New,Automatic,SUV / 4x4,Hybrid,1200.0,0.0,Colombo,Nugegoda,1,Toyota Raize
+7622881,Mahindra,Scorpio Pikup,2026,Brand New,Manual,,Diesel,2179.0,0.0,Kandy,Kandy City,1,Mahindra Scorpio Pikup
+31000000,Audi,Q7,2018,Used,Automatic,SUV / 4x4,Petrol,2000.0,92000.0,Colombo,Maharagama,1,Audi Q7
+13950000,Toyota,Raize,2026,Brand New,Automatic,SUV / 4x4,Hybrid,1200.0,0.0,Colombo,Nugegoda,1,Toyota Raize
+10900000,Toyota,Yaris,2026,Used,Automatic,Hatchback,Petrol,1500.0,200.0,Colombo,Kohuwala,1,Toyota Yaris
+7650000,Nissan,Dayz,2025,Brand New,Automatic,Hatchback,Petrol,660.0,0.0,Colombo,Nugegoda,1,Nissan Dayz
+10900000,Toyota,Roomy,2026,Brand New,Automatic,MPV,Petrol,990.0,0.0,Colombo,Colombo 5,1,Toyota Roomy
+13450000,Toyota,Raize,2024,Reconditioned,Automatic,SUV / 4x4,Hybrid,1200.0,7000.0,Kurunegala,Kurunegala City,1,Toyota Raize
+8350000,Suzuki,Swift,2018,Used,Tiptronic,Hatchback,Petrol,1200.0,77000.0,Kalutara,Panadura,1,Suzuki Swift
+9375000,Toyota,Roomy,2024,Reconditioned,Automatic,Hatchback,Petrol,1000.0,13000.0,Colombo,Homagama,1,Toyota Roomy
+28500000,Toyota,Other Model,2026,Used,Automatic,MPV,Diesel,2800.0,,Puttalam,Wennappuwa,1,Toyota Other Model
+21500000,Mercedes Benz,C200,2018,Used,Automatic,Saloon,Petrol,1497.0,80000.0,Colombo,Battaramulla,0,Mercedes Benz C200
+9850000,Mitsubishi,EK Custom,2024,Reconditioned,Automatic,Hatchback,Electric,660.0,17000.0,Colombo,Rajagiriya,1,Mitsubishi EK Custom
+13000000,Mitsubishi,Montero,2002,Used,Automatic,SUV / 4x4,Petrol,3721.0,165788.0,Colombo,Colombo 8,0,Mitsubishi Montero
+5250000,Nissan,Tiida,2008,Used,Automatic,Saloon,Petrol,1490.0,190000.0,Kandy,Kundasale,0,Nissan Tiida
+7450000,Nissan,Dayz,2024,Reconditioned,Automatic,Hatchback,Petrol,660.0,19000.0,Colombo,Pannipitiya,1,Nissan Dayz
+6600000,Suzuki,Alto,2023,Reconditioned,Automatic,Hatchback,Petrol,660.0,13000.0,Colombo,Rajagiriya,1,Suzuki Alto
+6790000,Suzuki,Wagon R,2024,Import,Automatic,Hatchback,Petrol,660.0,17000.0,Kurunegala,Kurunegala City,1,Suzuki Wagon R
+7375000,Mitsubishi,eK Wagon,2024,Reconditioned,Automatic,,Petrol,650.0,11000.0,Colombo,Kottawa,1,Mitsubishi eK Wagon
+5890000,Suzuki,Celerio,2018,Used,Automatic,Hatchback,Petrol,1000.0,100000.0,Colombo,Colombo 4,1,Suzuki Celerio
+7622881,Mahindra,Scorpio Pikup,2026,Brand New,Manual,,Diesel,2179.0,0.0,Hambantota,Hambantota City,1,Mahindra Scorpio Pikup
+2100000,Toyota,Corsa,1991,Used,Manual,Hatchback,Petrol,1500.0,192000.0,Kurunegala,Alawwa,0,Toyota Corsa
+8975000,Toyota,Premio,2010,Used,Automatic,Saloon,Petrol,1490.0,160368.0,Colombo,Malabe,1,Toyota Premio
+55000000,Mercedes Benz,C200,2025,Brand New,Tiptronic,Saloon,Hybrid,1500.0,0.0,Colombo,Kohuwala,1,Mercedes Benz C200
+5575000,Suzuki,Swift,2007,Used,Automatic,Hatchback,Petrol,1240.0,78000.0,Colombo,Colombo 6,1,Suzuki Swift
+115000000,Toyota,Land Cruiser Sahara,2024,Reconditioned,Tiptronic,SUV / 4x4,Diesel,3500.0,1001.0,Colombo,Kohuwala,1,Toyota Land Cruiser Sahara
+26500000,Mitsubishi,Montero,2017,Used,Automatic,SUV / 4x4,Petrol,3000.0,70000.0,Colombo,Battaramulla,1,Mitsubishi Montero
+13250000,Toyota,Raize,2025,Used,Automatic,SUV / 4x4,Petrol,1000.0,4000.0,Colombo,Malabe,1,Toyota Raize
+9200000,Toyota,Prius,2011,Reconditioned,Automatic,Saloon,Hybrid,1500.0,160000.0,Colombo,Kotte,1,Toyota Prius
+8000000,Toyota,Vitz,2018,Used,Automatic,Saloon,Petrol,1000.0,144000.0,Gampaha,Negombo,1,Toyota Vitz
+20000000,Audi,A3,2023,Reconditioned,Automatic,Saloon,Petrol,990.0,16700.0,Colombo,Kalubowila,1,Audi A3
+6150000,Suzuki,Wagon R,2018,Used,Automatic,Hatchback,Hybrid,650.0,128526.0,Colombo,Nugegoda,0,Suzuki Wagon R
+8190000,Toyota,Vitz,2018,Used,Automatic,Hatchback,Petrol,990.0,84200.0,Colombo,Boralesgamuwa,1,Toyota Vitz
+6410000,Suzuki,Alto,2024,Reconditioned,Automatic,Hatchback,Petrol,660.0,17000.0,Kurunegala,Kurunegala City,1,Suzuki Alto
+4000000,Suzuki,Alto,2015,Used,Manual,Hatchback,Petrol,796.0,85000.0,Anuradhapura,Nochchiyagama,0,Suzuki Alto
+14000000,Honda,Fit,2025,Import,Automatic,Hatchback,Hybrid,1500.0,15000.0,Colombo,Kohuwala,1,Honda Fit
+8195000,Nissan,Sakura,2025,Reconditioned,Automatic,Hatchback,Electric,,7900.0,Colombo,Nugegoda,1,Nissan Sakura
+13700000,Jeep,Compass,2019,Used,Automatic,SUV / 4x4,Petrol,1400.0,62000.0,Colombo,Maharagama,1,Jeep Compass
+11650000,Toyota,Axio,2020,Used,Automatic,,Hybrid,1500.0,90000.0,Colombo,Pannipitiya,1,Toyota Axio
+15950000,Honda,CRV,2019,Used,Automatic,,Petrol,1500.0,70000.0,Colombo,Pannipitiya,1,Honda CRV
+10650000,Suzuki,Fronx,2026,Used,Automatic,SUV / 4x4,Petrol,1000.0,6500.0,Kurunegala,Kurunegala City,0,Suzuki Fronx
+6500000,Ssang Yong,Rexton,2009,Used,Automatic,SUV / 4x4,Diesel,2000.0,180000.0,Matara,Kamburugamuwa,0,Ssang Yong Rexton
+9195000,Toyota,Yaris,2024,Reconditioned,Automatic,Hatchback,Petrol,660.0,23000.0,Colombo,Nugegoda,1,Toyota Yaris
+8150000,Nissan,Dayz,2026,Brand New,Automatic,Hatchback,Petrol,650.0,0.0,Gampaha,Ragama,1,Nissan Dayz
+7575000,Suzuki,Smile,2024,Reconditioned,Automatic,Hatchback,Petrol,660.0,15700.0,Colombo,Kottawa,1,Suzuki Smile
+2800000,Peugeot,406,2003,Used,Manual,Saloon,Petrol,1749.0,226000.0,Colombo,Colombo 6,0,Peugeot 406
+1461000,Suzuki,Zen,1996,Used,Manual,Hatchback,Petrol,1000.0,252000.0,Kandy,Pilimatalawa,0,Suzuki Zen
+79500000,Land Rover,Defender,2026,Brand New,Automatic,SUV / 4x4,Petrol,2000.0,0.0,Colombo,Kohuwala,1,Land Rover Defender
+13575000,Toyota,Raize,2026,Brand New,Automatic,SUV / 4x4,Hybrid,1200.0,0.0,Colombo,Dehiwala,1,Toyota Raize
+18700000,Audi,A3,2023,Reconditioned,Tiptronic,Saloon,Petrol,1000.0,11000.0,Colombo,Dehiwala,1,Audi A3
+6850000,Toyota,Axio,2007,Used,Automatic,Saloon,Petrol,1800.0,195000.0,Colombo,Nugegoda,1,Toyota Axio
+7000000,Toyota,Aqua,2013,Used,Automatic,Hatchback,Hybrid,1500.0,182000.0,Colombo,Battaramulla,0,Toyota Aqua
+20500000,Mercedes Benz,Other Model,2017,Used,Automatic,Saloon,Diesel,1600.0,90000.0,Colombo,Kotte,1,Mercedes Benz Other Model
+6600000,Suzuki,Alto,2025,Reconditioned,Automatic,,Petrol,650.0,4600.0,Colombo,Kottawa,1,Suzuki Alto
+7250000,Mitsubishi,eK Wagon,2023,Used,Automatic,,Petrol,650.0,15000.0,Colombo,Kottawa,1,Mitsubishi eK Wagon
+7900000,Ssang Yong,Korando,2012,Used,Automatic,SUV / 4x4,Diesel,2000.0,124500.0,Galle,Hikkaduwa,0,Ssang Yong Korando
+40000000,Mercedes Benz,E350,2019,Used,Automatic,Saloon,Petrol,2000.0,26000.0,Colombo,Colombo 3,0,Mercedes Benz E350
+11875000,Audi,Q2,2018,Used,Automatic,SUV / 4x4,Petrol,1000.0,106000.0,Gampaha,Kiribathgoda,0,Audi Q2
+6375000,Toyota,Yaris,2010,Used,Automatic,Saloon,Petrol,1300.0,190000.0,Colombo,Nugegoda,1,Toyota Yaris
+3990000,Suzuki,Alto,2015,Used,Manual,Hatchback,Petrol,800.0,134000.0,Colombo,Kesbewa,0,Suzuki Alto
+8575000,Nissan,Dayz,2025,Reconditioned,Automatic,Hatchback,Hybrid,660.0,7000.0,Colombo,Dehiwala,1,Nissan Dayz
+11450000,Toyota,Premio,2013,Used,Automatic,Saloon,Petrol,1500.0,40000.0,Colombo,Battaramulla,0,Toyota Premio
+6425000,Daihatsu,Mira,2024,Reconditioned,Automatic,Hatchback,Petrol,650.0,3500.0,Colombo,Mount Lavinia,1,Daihatsu Mira
+12900000,Toyota,Raize,2026,Brand New,Automatic,Hatchback,Petrol,1000.0,270.0,Gampaha,Gampaha City,1,Toyota Raize
+17750000,Honda,Vezel,2025,Reconditioned,Tiptronic,SUV / 4x4,Hybrid,1500.0,9000.0,Gampaha,Ja-Ela,1,Honda Vezel
+135000000,Toyota,Land Cruiser Prado,2024,Brand New,Tiptronic,SUV / 4x4,Diesel,3000.0,0.0,Colombo,Kohuwala,1,Toyota Land Cruiser Prado
+7400000,Mitsubishi,eK Wagon,2025,Used,Automatic,,Petrol,650.0,1800.0,Colombo,Nugegoda,1,Mitsubishi eK Wagon
+8190000,Toyota,Vitz,2018,Used,Automatic,Hatchback,Petrol,1000.0,105000.0,Gampaha,Katunayake,0,Toyota Vitz
+7600000,Toyota,Hilux,2010,Used,Manual,SUV / 4x4,Diesel,2500.0,465085.0,Gampaha,Negombo,0,Toyota Hilux
+2875000,Toyota,Corolla,1992,Used,Automatic,Saloon,Diesel,2200.0,275000.0,Colombo,Kohuwala,1,Toyota Corolla
+20500000,Honda,Vezel,2026,Brand New,Automatic,SUV / 4x4,Hybrid,1500.0,0.0,Colombo,Colombo 8,1,Honda Vezel
+47500000,Toyota,Land Cruiser Sahara,2011,Used,Automatic,SUV / 4x4,Diesel,3000.0,90000.0,Colombo,Colombo 6,1,Toyota Land Cruiser Sahara
+3600000,Mazda,6,1999,Used,Automatic,MPV,Petrol,1830.0,200000.0,Anuradhapura,Anuradhapura City,0,Mazda 6
+18650000,Honda,Vezel,2026,Brand New,Automatic,SUV / 4x4,Hybrid,1500.0,0.0,Kurunegala,Kurunegala City,1,Honda Vezel
+3500000,Hyundai,Trajet,2001,Used,Automatic,MPV,Diesel,2200.0,260000.0,Kalutara,Kalutara City,0,Hyundai Trajet
+6850000,Daihatsu,Mira,2026,Import,Automatic,Hatchback,Petrol,660.0,5455.0,Kurunegala,Kurunegala City,1,Daihatsu Mira
+13525900,Mahindra,Scorpio Pikup,2026,Brand New,Automatic,,Diesel,2179.0,0.0,Nuwara Eliya,Nuwara Eliya City,1,Mahindra Scorpio Pikup
+6150000,Suzuki,Wagon R FX,2018,Used,Automatic,Hatchback,Hybrid,650.0,91184.0,Colombo,Moratuwa,1,Suzuki Wagon R FX
+12690000,Kia,Syros,2026,Brand New,Automatic,MPV,Petrol,1000.0,0.0,Colombo,Mount Lavinia,1,Kia Syros
+21250000,Honda,Vezel,2026,Brand New,Automatic,SUV / 4x4,Hybrid,1500.0,1.0,Gampaha,Kandana,0,Honda Vezel
+5790000,Nissan,Dayz,2017,Used,Automatic,Hatchback,Petrol,650.0,81000.0,Colombo,Kohuwala,1,Nissan Dayz
+7900000,Daihatsu,Move,2025,Reconditioned,Automatic,Hatchback,Petrol,660.0,9428.0,Kurunegala,Alawwa,0,Daihatsu Move
+17500000,Mercedes Benz,S350,2010,Used,Automatic,Saloon,Diesel,3000.0,134400.0,Colombo,Nugegoda,1,Mercedes Benz S350
+8875000,Mitsubishi,Other Model,2025,Brand New,Automatic,Hatchback,Hybrid,650.0,1000.0,Colombo,Kohuwala,1,Mitsubishi Other Model
+7900000,Suzuki,Smile,2024,Reconditioned,Automatic,Hatchback,Petrol,660.0,15700.0,Colombo,Kottawa,1,Suzuki Smile
+6850000,Daihatsu,Mira,2025,Reconditioned,Automatic,Hatchback,Petrol,650.0,1000.0,Kandy,Katugastota,1,Daihatsu Mira
+46500000,Toyota,Land Cruiser Sahara,2015,Reconditioned,Automatic,SUV / 4x4,Petrol,4200.0,63000.0,Colombo,Battaramulla,1,Toyota Land Cruiser Sahara
+10900000,Toyota,Taisor,2026,Brand New,Automatic,Hatchback,Petrol,1000.0,0.0,Colombo,Kotte,1,Toyota Taisor
+7622881,Mahindra,Scorpio,2026,Brand New,Manual,,Diesel,2179.0,0.0,Polonnaruwa,Polonnaruwa City,1,Mahindra Scorpio
+4985000,Suzuki,Celerio,2015,Used,Automatic,Hatchback,Petrol,1000.0,88136.0,Colombo,Moratuwa,1,Suzuki Celerio
+28500000,Toyota,Hilux,2025,Reconditioned,Automatic,SUV / 4x4,Diesel,2800.0,6500.0,Colombo,Nugegoda,0,Toyota Hilux
+13590000,Toyota,Raize,2026,Brand New,Automatic,Hatchback,Hybrid,1200.0,0.0,Colombo,Nugegoda,1,Toyota Raize
+10350000,Toyota,Roomy,2024,Reconditioned,Automatic,MPV,Petrol,990.0,13000.0,Gampaha,Negombo,1,Toyota Roomy
+35000000,Mercedes Benz,S400,2013,Used,Automatic,Saloon,Hybrid,3500.0,65000.0,Colombo,Kohuwala,1,Mercedes Benz S400
+16200000,Toyota,Yaris Cross,2024,Import,Automatic,SUV / 4x4,Hybrid,1500.0,20000.0,Gampaha,Veyangoda,1,Toyota Yaris Cross
+19000000,Honda,Vezel,2026,Brand New,Automatic,SUV / 4x4,Hybrid,1490.0,0.0,Gampaha,Kadawatha,1,Honda Vezel
+9900000,Nissan,Qashqai,2019,Used,Tiptronic,SUV / 4x4,Petrol,1200.0,65000.0,Colombo,Kaduwela,1,Nissan Qashqai
+7622881,Mahindra,Scorpio,2026,Brand New,Manual,,Diesel,2179.0,0.0,Kalutara,Kalutara City,1,Mahindra Scorpio
+2650000,Toyota,Caldina,1997,Used,Manual,Station wagon,Diesel,1950.0,243600.0,Kegalle,Ruwanwella,0,Toyota Caldina
+8350000,Toyota,Aqua,2013,Used,Automatic,Hatchback,Hybrid,1500.0,102000.0,Ampara,Akkarepattu,0,Toyota Aqua
+5590000,Suzuki,Swift,2009,Used,Automatic,Hatchback,Petrol,1300.0,185240.0,Colombo,Nugegoda,0,Suzuki Swift
+28000000,Volvo,XC90,2017,Used,Automatic,SUV / 4x4,Petrol,2000.0,150000.0,Colombo,Nugegoda,0,Volvo XC90
+7700000,Honda,CRV,2007,Used,Automatic,SUV / 4x4,Petrol,2000.0,192500.0,Kalutara,Horana,0,Honda CRV
+13800000,Toyota,Raize,2026,Brand New,Automatic,Hatchback,Hybrid,1200.0,0.0,Kurunegala,Kurunegala City,1,Toyota Raize
+8695000,Suzuki,Wagon R,2025,Used,Automatic,Hatchback,Petrol,658.0,13578.0,Colombo,Malabe,1,Suzuki Wagon R
+33900000,Ford,Other Model,2026,Brand New,Automatic,SUV / 4x4,Petrol,1800.0,0.0,Colombo,Dehiwala,1,Ford Other Model
+5775000,Toyota,Yaris,2006,Used,Automatic,Saloon,Petrol,1300.0,200000.0,Colombo,Dehiwala,1,Toyota Yaris
+19500000,Audi,A3,2023,Reconditioned,Automatic,Saloon,Petrol,1000.0,8000.0,Gampaha,Kelaniya,1,Audi A3
+11300000,Toyota,Taisor,2026,Brand New,Automatic,SUV / 4x4,Petrol,1000.0,0.0,Gampaha,Negombo,1,Toyota Taisor
+6975000,Mitsubishi,Lancer,2011,Used,Automatic,Saloon,Petrol,1300.0,38276.0,Gampaha,Miriswatta,0,Mitsubishi Lancer
+18750000,Audi,A3,2023,Reconditioned,Automatic,Saloon,Petrol,1000.0,14000.0,Colombo,Kalubowila,1,Audi A3
+8200000,Honda,Fit,2014,Used,Automatic,Hatchback,Petrol,1500.0,116000.0,Kegalle,Mawanella,0,Honda Fit
+7100000,Suzuki,Alto,2025,Import,Automatic,Hatchback,Petrol,660.0,10000.0,Colombo,Colombo 3,1,Suzuki Alto
+1375000,Tata,Nano,2011,Used,Manual,Hatchback,Petrol,624.0,230000.0,Kalutara,Bandaragama,0,Tata Nano
+16500000,Mercedes Benz,C200,2017,Used,Automatic,Saloon,Petrol,1500.0,80000.0,Colombo,Battaramulla,1,Mercedes Benz C200
+31950000,BMW,220i,2025,Brand New,Automatic,Saloon,Petrol,1500.0,0.0,Colombo,Colombo 6,1,BMW 220i
+127500000,Land Rover,Range Rover Sport,2025,Used,Automatic,SUV / 4x4,Petrol,3000.0,4500.0,Colombo,Colombo 6,1,Land Rover Range Rover Sport
+80000000,Land Rover,Defender,2025,Brand New,Tiptronic,SUV / 4x4,Petrol,2000.0,0.0,Colombo,Kohuwala,1,Land Rover Defender
+2420000,Suzuki,Alto,2012,Used,Manual,Hatchback,Petrol,800.0,89550.0,Hambantota,Tissamaharama,0,Suzuki Alto
+16495000,Mahindra,Scorpio Pikup,2026,Brand New,Automatic,,Diesel,2179.0,0.0,Gampaha,Peliyagoda,1,Mahindra Scorpio Pikup
+6650000,Toyota,Vitz,2015,Used,Automatic,Hatchback,Petrol,990.0,136000.0,Colombo,Battaramulla,0,Toyota Vitz
+2100000,Toyota,Starlet,1989,Used,Manual,Hatchback,Diesel,1500.0,261141.0,Colombo,Rajagiriya,0,Toyota Starlet
+6000000,JAECOO,Other Model,2026,Brand New,Automatic,SUV / 4x4,Hybrid,1500.0,0.0,Colombo,Malabe,1,JAECOO Other Model
+23900000,BMW,530e,2017,Used,Automatic,Saloon,Hybrid,2000.0,93000.0,Kurunegala,Kurunegala City,1,BMW 530e
+16100000,Toyota,Yaris Cross,2022,Import,Automatic,SUV / 4x4,Hybrid,1500.0,26073.0,Colombo,Mount Lavinia,1,Toyota Yaris Cross
+20490000,Honda,Vezel,2026,Brand New,Automatic,SUV / 4x4,Hybrid,1490.0,15.0,Colombo,Boralesgamuwa,1,Honda Vezel
+1480000,Toyota,Corolla,1985,Used,Manual,Station wagon,Petrol,1480.0,256194.0,Colombo,Hanwella,0,Toyota Corolla
+19000000,Audi,Q3,2019,Used,Automatic,Hatchback,Petrol,1984.0,60000.0,Colombo,Rajagiriya,0,Audi Q3
+12500000,Peugeot,3008,2018,Used,Automatic,SUV / 4x4,Petrol,1200.0,130000.0,Gampaha,Nittambuwa,0,Peugeot 3008
+25000000,Tesla,Model 3,2024,Brand New,Automatic,Saloon,Electric,,0.0,Gampaha,Negombo,0,Tesla Model 3
+7622881,Mahindra,Scorpio Pikup,2026,Brand New,Manual,,Diesel,2179.0,0.0,Monaragala,Monaragala City,1,Mahindra Scorpio Pikup
+7875000,Toyota,Hilux,2010,Used,Manual,SUV / 4x4,Diesel,3000.0,242000.0,Colombo,Homagama,1,Toyota Hilux
+7390000,Suzuki,Wagon R Stingray,2017,Used,Automatic,Hatchback,Hybrid,650.0,75961.0,Colombo,Malabe,1,Suzuki Wagon R Stingray
+14250000,Toyota,Raize,2026,Brand New,Automatic,SUV / 4x4,Hybrid,1200.0,20.0,Kurunegala,Kurunegala City,1,Toyota Raize
+7050000,Daihatsu,Mira,2025,Brand New,Automatic,Hatchback,Petrol,650.0,1000.0,Colombo,Kohuwala,1,Daihatsu Mira
+13525900,Mahindra,Scorpio Pikup,2026,Brand New,Automatic,,Diesel,2179.0,0.0,Mullativu,Mullativu City,1,Mahindra Scorpio Pikup
+10250000,Toyota,Roomy,2024,Reconditioned,Automatic,MPV,Petrol,1000.0,9000.0,Gampaha,Nittambuwa,1,Toyota Roomy
+9575000,Toyota,Yaris,2025,Reconditioned,Automatic,Hatchback,Petrol,1000.0,6000.0,Gampaha,Kandana,0,Toyota Yaris
+10675000,Toyota,Taisor,2026,Brand New,Automatic,SUV / 4x4,Petrol,1000.0,0.0,Colombo,Piliyandala,1,Toyota Taisor
+11790000,Honda,Vezel,2017,Used,Automatic,SUV / 4x4,Hybrid,1500.0,75000.0,Colombo,Nugegoda,1,Honda Vezel
+12750000,Toyota,Raize,2026,Brand New,Automatic,SUV / 4x4,Petrol,1000.0,0.0,Colombo,Nugegoda,1,Toyota Raize
+77000000,Land Rover,Defender,2025,Brand New,Tiptronic,SUV / 4x4,Hybrid,2000.0,10.0,Colombo,Kohuwala,1,Land Rover Defender
+9150000,Honda,Vezel,2015,Used,Tiptronic,SUV / 4x4,Hybrid,1500.0,179000.0,Gampaha,Ja-Ela,1,Honda Vezel
+13100000,Toyota,Raize,2024,Used,Automatic,SUV / 4x4,Hybrid,1200.0,5000.0,Colombo,Colombo 15,0,Toyota Raize
+4799999,Mitsubishi,Galant,2002,Used,Manual,Saloon,Petrol,2000.0,206788.0,Colombo,Malabe,0,Mitsubishi Galant
+9300000,Toyota,Yaris,2024,Reconditioned,Automatic,Hatchback,Petrol,990.0,14038.0,Gampaha,Nittambuwa,1,Toyota Yaris
+16950000,BMW,318i,2016,Used,Automatic,Saloon,Petrol,1500.0,104000.0,Colombo,Kalubowila,1,BMW 318i
+17500000,Mercedes Benz,C180,2017,Used,Automatic,Saloon,Petrol,1600.0,53000.0,Colombo,Boralesgamuwa,0,Mercedes Benz C180
+6475000,Suzuki,Alto,2025,Reconditioned,Automatic,,Petrol,650.0,8500.0,Colombo,Kottawa,1,Suzuki Alto
+7375000,Mitsubishi,eK Wagon,2024,Reconditioned,Automatic,,Petrol,650.0,11000.0,Colombo,Kottawa,1,Mitsubishi eK Wagon
+4500000,Honda,Civic,2000,Used,Manual,Saloon,Petrol,1590.0,271828.0,Colombo,Padukka,0,Honda Civic
+12550000,Toyota,Raize,2026,Brand New,Automatic,SUV / 4x4,Petrol,1000.0,0.0,Colombo,Kohuwala,1,Toyota Raize
+11930000,Toyota,Raize,2026,Import,Automatic,Hatchback,Petrol,1000.0,,Colombo,Dehiwala,1,Toyota Raize
+20250000,Honda,Vezel,2025,Brand New,Tiptronic,SUV / 4x4,Hybrid,1500.0,0.0,Gampaha,Ja-Ela,1,Honda Vezel
+10000000,Toyota,Premio,2013,Used,Automatic,Saloon,Petrol,1500.0,126000.0,Galle,Galle City,0,Toyota Premio
+8100000,Nissan,Dayz,2025,Import,Automatic,Hatchback,Petrol,660.0,10000.0,Colombo,Colombo 3,1,Nissan Dayz
+3175000,Mitsubishi,RVR,1996,Used,Manual,SUV / 4x4,Diesel,2000.0,117000.0,Colombo,Homagama,1,Mitsubishi RVR
+6700000,Suzuki,Wagon R,2018,Used,Automatic,Hatchback,Hybrid,650.0,78000.0,Kalutara,Matugama,0,Suzuki Wagon R
+18850000,Honda,Vezel,2026,Brand New,Automatic,Hatchback,Hybrid,1500.0,0.0,Colombo,Kohuwala,1,Honda Vezel
+5885000,Nissan,Sunny,2011,Used,Manual,Saloon,Petrol,1300.0,57840.0,Colombo,Moratuwa,1,Nissan Sunny
+129500000,Lexus,LX600,2025,Used,Automatic,SUV / 4x4,Petrol,3400.0,4000.0,Colombo,Kohuwala,1,Lexus LX600
+9390000,Toyota,Yaris,2024,Reconditioned,Automatic,Hatchback,Petrol,1000.0,25000.0,Colombo,Kohuwala,1,Toyota Yaris
+10175000,Toyota,Roomy,2024,Reconditioned,Automatic,,Petrol,1000.0,12000.0,Colombo,Kotte,1,Toyota Roomy
+22900000,Nissan,Serena,2025,Brand New,Automatic,MPV,Hybrid,1400.0,0.0,Colombo,Kohuwala,1,Nissan Serena
+13500000,Toyota,Raize,2026,Brand New,Automatic,SUV / 4x4,Hybrid,1200.0,0.0,Colombo,Battaramulla,1,Toyota Raize
+17200000,Mercedes Benz,C200,2016,Used,Automatic,Saloon,Diesel,1600.0,76000.0,Colombo,Kohuwala,1,Mercedes Benz C200
+6500000,Rivon,G 050,2026,Brand New,Automatic,MPV,Electric,500.0,0.0,Colombo,Colombo 5,1,Rivon G 050
+6590000,Mazda,Carol,2023,Reconditioned,Automatic,Hatchback,Petrol,660.0,16000.0,Colombo,Kottawa,1,Mazda Carol
+9500000,Toyota,Yaris,2024,Used,Automatic,Hatchback,Petrol,996.0,21126.0,Matale,Dambulla,0,Toyota Yaris
+2500000,Isuzu,Gemini,1996,Used,Automatic,Saloon,Diesel,1650.0,100000.0,Ratnapura,Eheliyagoda,0,Isuzu Gemini
+7450000,Daihatsu,Mira,2026,Brand New,Automatic,Hatchback,Petrol,660.0,0.0,Colombo,Colombo 8,1,Daihatsu Mira
+2175000,Maruti Suzuki,800,2007,Used,Manual,Hatchback,Petrol,800.0,90700.0,Ratnapura,Weddagala,0,Maruti Suzuki 800
+5590000,Toyota,Vitz,2008,Used,Automatic,Hatchback,Petrol,990.0,96000.0,Gampaha,Mirigama,0,Toyota Vitz
+8490000,Toyota,Roomy,2023,Reconditioned,Automatic,MPV,Petrol,1000.0,48000.0,Colombo,Kottawa,1,Toyota Roomy
+19000000,Toyota,Hilux,2018,Used,Tiptronic,SUV / 4x4,Diesel,2800.0,181000.0,Anuradhapura,Anuradhapura City,0,Toyota Hilux
+7050000,Daihatsu,Mira,2025,Brand New,Automatic,Hatchback,Petrol,660.0,0.0,Colombo,Nugegoda,1,Daihatsu Mira
+2250000,Suzuki,Maruti,2011,Used,Manual,Saloon,Petrol,800.0,43000.0,Anuradhapura,Anuradhapura City,0,Suzuki Maruti
+8370000,Suzuki,Wagon R ZX,2025,Import,Automatic,Hatchback,Hybrid,660.0,2500.0,Colombo,Malabe,1,Suzuki Wagon R ZX
+44500000,Land Rover,Range Rover Sport,2018,Used,Automatic,SUV / 4x4,Diesel,2000.0,96000.0,Colombo,Kohuwala,1,Land Rover Range Rover Sport
+10300000,Toyota,Roomy,2024,Import,Automatic,Hatchback,Petrol,1000.0,13746.0,Ratnapura,Embilipitiya,1,Toyota Roomy
+1590000,Nissan,Sunny,1989,Used,Manual,Saloon,Petrol,1300.0,170000.0,Kurunegala,Kurunegala City,0,Nissan Sunny
+5800000,Suzuki,Spacia,2018,Used,Automatic,MPV,Petrol,660.0,98862.0,Colombo,Mount Lavinia,0,Suzuki Spacia
+5950000,Suzuki,Spacia,2018,Used,Automatic,Hatchback,Petrol,660.0,162000.0,Kalutara,Alutgama,0,Suzuki Spacia
+950000,Toyota,Carina,1986,Used,Manual,Saloon,Petrol,1500.0,336000.0,Kegalle,Mawanella,0,Toyota Carina
+34000000,Honda,CRV,2025,Brand New,Tiptronic,SUV / 4x4,Petrol,1500.0,10.0,Colombo,Kohuwala,1,Honda CRV
+21000000,Honda,Civic,2024,Reconditioned,Automatic,Saloon,Petrol,1500.0,6700.0,Colombo,Kohuwala,1,Honda Civic
+29500000,Toyota,Land Cruiser Prado,2013,Used,Automatic,SUV / 4x4,Diesel,3000.0,89000.0,Gampaha,Kadawatha,1,Toyota Land Cruiser Prado
+7490000,Suzuki,Wagon R,2025,Import,Automatic,Hatchback,Petrol,660.0,10.0,Kurunegala,Kurunegala City,1,Suzuki Wagon R
+2675000,Mazda,Familia,1998,Used,Manual,Saloon,Petrol,1500.0,140000.0,Kandy,Katugastota,0,Mazda Familia
+7900000,Daihatsu,Taft,2025,Reconditioned,Automatic,,Petrol,650.0,16000.0,Colombo,Kottawa,1,Daihatsu Taft
+17800000,Honda,Vezel,2025,Used,Automatic,SUV / 4x4,Petrol,1500.0,24690.0,Gampaha,Nittambuwa,1,Honda Vezel
+27500000,Mercedes Benz,GLC 250,2018,Import,Automatic,SUV / 4x4,Petrol,2000.0,45000.0,Colombo,Kohuwala,1,Mercedes Benz GLC 250
+13950000,Toyota,Crown,2010,Used,Automatic,Saloon,Hybrid,3500.0,91000.0,Kandy,Kandy City,0,Toyota Crown
+8310000,Honda,Fit,2015,Used,Automatic,Hatchback,Hybrid,1500.0,131000.0,Kandy,Kandy City,0,Honda Fit
+20400000,Honda,Vezel,2026,Brand New,Automatic,SUV / 4x4,Hybrid,1500.0,0.0,Colombo,Dehiwala,1,Honda Vezel
+61500000,Land Rover,Defender,2023,Used,Tiptronic,SUV / 4x4,Petrol,2000.0,17000.0,Colombo,Kaduwela,1,Land Rover Defender
+6695000,Toyota,Vitz,2014,Used,Automatic,Hatchback,Petrol,1000.0,109000.0,Kandy,Pallekele,0,Toyota Vitz
+900000,Maruti Suzuki,800,2004,Used,Manual,Hatchback,Petrol,800.0,150000.0,Kalutara,Bandaragama,0,Maruti Suzuki 800
+14250000,Toyota,Raize,2026,Brand New,Automatic,SUV / 4x4,Hybrid,,0.0,Ampara,Ampara City,1,Toyota Raize
+32500000,Toyota,Land Cruiser Sahara,2010,Used,Automatic,SUV / 4x4,Petrol,4600.0,220000.0,Colombo,Dehiwala,1,Toyota Land Cruiser Sahara
+500000,Nissan,Sunny,1987,Used,Manual,Saloon,Petrol,,327600.0,Kurunegala,Kuliyapitiya,0,Nissan Sunny
+8595000,Nissan,Roox,2025,Reconditioned,Automatic,MPV,Hybrid,650.0,3990.0,Colombo,Nugegoda,1,Nissan Roox
+6375000,Mitsubishi,Strada,1994,Used,Manual,SUV / 4x4,Diesel,2470.0,349680.0,Gampaha,Pugoda,0,Mitsubishi Strada
+5100000,Toyota,Passo,2009,Used,Automatic,Hatchback,Petrol,1000.0,113000.0,Badulla,Bandarawela,0,Toyota Passo
+7050000,Daihatsu,Mira,2025,Brand New,Automatic,Hatchback,Petrol,660.0,0.0,Colombo,Nugegoda,1,Daihatsu Mira
+7180000,Daihatsu,Mira,2025,Reconditioned,Automatic,Hatchback,Petrol,660.0,919.0,Colombo,Athurugiriya,0,Daihatsu Mira
+13000000,Audi,A6,2014,Used,Automatic,Saloon,Diesel,2000.0,174000.0,Colombo,Colombo 2,0,Audi A6
+10950000,Audi,Q3,2017,Used,Tiptronic,SUV / 4x4,Petrol,1400.0,120000.0,Colombo,Kaduwela,1,Audi Q3
+12100000,Hyundai,Venue,2026,Brand New,Automatic,SUV / 4x4,Petrol,998.0,0.0,Colombo,Colombo 5,1,Hyundai Venue
+5400000,Suzuki,Wagon R FX,2016,Used,Automatic,,Hybrid,660.0,155000.0,Colombo,Moratuwa,0,Suzuki Wagon R FX
+7975000,Nissan,Roox,2024,Reconditioned,Automatic,MPV,Petrol,660.0,47000.0,Colombo,Kottawa,1,Nissan Roox
+19000000,Honda,Vezel,2026,Brand New,Automatic,SUV / 4x4,Petrol,1500.0,0.0,Colombo,Kohuwala,1,Honda Vezel
+12400000,Toyota,Raize,2023,Used,Automatic,Hatchback,Petrol,1200.0,30625.0,Gampaha,Gampaha City,1,Toyota Raize
+10750000,Suzuki,Spacia,2024,Brand New,Automatic,MPV,Hybrid,650.0,1.0,Gampaha,Kandana,0,Suzuki Spacia
+3250000,Tata,Xenon,2009,Used,Automatic,,Petrol,3000.0,85000.0,Kurunegala,Kurunegala City,0,Tata Xenon
+11490000,Toyota,CHR,2018,Used,Automatic,SUV / 4x4,Petrol,1200.0,105000.0,Colombo,Hanwella,1,Toyota CHR
+1350000,Nissan,Presea,1998,Used,Manual,Saloon,Petrol,1500.0,222000.0,Gampaha,Negombo,0,Nissan Presea
+7700000,Toyota,Vitz,2015,Used,Automatic,Hatchback,Petrol,990.0,65000.0,Matara,Matara City,0,Toyota Vitz
+6950000,Daihatsu,Mira,2025,Reconditioned,Automatic,Hatchback,Petrol,650.0,3000.0,Colombo,Kohuwala,1,Daihatsu Mira
+9850000,Toyota,Allion,2011,Used,Automatic,Saloon,Petrol,1500.0,115000.0,Colombo,Colombo 6,1,Toyota Allion
+8200000,Suzuki,Wagon R,2026,Brand New,Automatic,Hatchback,Petrol,660.0,115.0,Matara,Matara City,1,Suzuki Wagon R
+2690000,Hyundai,Atos,2001,Used,Automatic,Hatchback,Petrol,990.0,111000.0,Colombo,Maharagama,0,Hyundai Atos
+13690000,Toyota,Raize,2026,Brand New,Automatic,SUV / 4x4,Hybrid,1200.0,0.0,Colombo,Dehiwala,1,Toyota Raize
+14200000,Toyota,Raize,2026,Brand New,Automatic,SUV / 4x4,Hybrid,1200.0,0.0,Colombo,Pannipitiya,1,Toyota Raize
+19650000,Audi,A3,2023,Reconditioned,Automatic,Saloon,Petrol,1000.0,30000.0,Colombo,Kalubowila,1,Audi A3
+1895000,Mazda,Familia,1991,Used,Manual,Saloon,Diesel,1720.0,190000.0,Gampaha,Minuwangoda,0,Mazda Familia
+955000,Mitsubishi,Lancer,1986,Used,Manual,Saloon,Petrol,1400.0,79941.0,Jaffna,Jaffna City,0,Mitsubishi Lancer
+11000000,Toyota,Taisor,2026,Brand New,Automatic,SUV / 4x4,Petrol,1000.0,0.0,Colombo,Colombo 4,1,Toyota Taisor
+11000000,Toyota,Yaris,2026,Brand New,Automatic,Hatchback,Petrol,1000.0,40.0,Gampaha,Negombo,1,Toyota Yaris
+11925000,Honda,Vezel,2017,Used,Automatic,SUV / 4x4,Hybrid,1500.0,68000.0,Colombo,Talawatugoda,1,Honda Vezel
+3650000,Toyota,Premio,1996,Used,Automatic,Saloon,Diesel,2000.0,125000.0,Kegalle,Rambukkana,0,Toyota Premio
+5890000,Daihatsu,Mira,2016,Used,Automatic,Hatchback,Petrol,650.0,101811.0,Colombo,Malabe,1,Daihatsu Mira
+27000000,BMW,118i,2024,Import,Automatic,Hatchback,Petrol,1500.0,19000.0,Colombo,Kohuwala,1,BMW 118i
+27900000,Land Rover,Discovery,2018,Used,Automatic,SUV / 4x4,Diesel,2000.0,30000.0,Colombo,Nugegoda,1,Land Rover Discovery
+32500000,Toyota,Land Cruiser Prado,2015,Used,Automatic,SUV / 4x4,Petrol,2700.0,80000.0,Colombo,Battaramulla,1,Toyota Land Cruiser Prado
+15350000,Toyota,Land Cruiser Prado,2006,Used,Manual,SUV / 4x4,Petrol,2700.0,186650.0,Anuradhapura,Eppawala,0,Toyota Land Cruiser Prado
+79600000,Land Rover,Defender,2026,Used,Automatic,SUV / 4x4,Hybrid,2000.0,,Colombo,Kohuwala,1,Land Rover Defender
+8790000,Toyota,Yaris,2024,Import,Automatic,Hatchback,Petrol,1000.0,36000.0,Kurunegala,Kurunegala City,1,Toyota Yaris
+6595000,Daihatsu,Mira,2025,Import,Automatic,Hatchback,Petrol,660.0,3000.0,Ratnapura,Embilipitiya,1,Daihatsu Mira
+7500000,Hyundai,Grand i10,2025,Used,Automatic,Saloon,Petrol,1197.0,17000.0,Colombo,Battaramulla,0,Hyundai Grand i10
+1950000,Mazda,Familia,1991,Used,Manual,Saloon,Petrol,1500.0,110000.0,Colombo,Moratuwa,0,Mazda Familia
+7500000,Suzuki,Wagon R Stingray,2017,Used,Automatic,Hatchback,Hybrid,660.0,74000.0,Jaffna,Jaffna City,0,Suzuki Wagon R Stingray
+8200000,Suzuki,Wagon R,2026,Brand New,Automatic,Hatchback,Petrol,660.0,114.0,Matara,Matara City,1,Suzuki Wagon R
+20250000,Honda,Vezel,2026,Brand New,Automatic,Hatchback,Hybrid,1500.0,1.0,Gampaha,Kandana,0,Honda Vezel
+5900000,Mitsubishi,Other Model,1997,Used,Tiptronic,Station wagon,Petrol,2500.0,142000.0,Colombo,Boralesgamuwa,1,Mitsubishi Other Model
+12700000,Nissan,X-Trail,2016,Used,Automatic,SUV / 4x4,Hybrid,1995.0,43129.0,Kalutara,Panadura,0,Nissan X-Trail
+7622881,Mahindra,Scorpio Pikup,2026,Brand New,Manual,,Diesel,2179.0,0.0,Matale,Dambulla,1,Mahindra Scorpio Pikup
+13250000,Toyota,Raize,2025,Used,Automatic,SUV / 4x4,Hybrid,1190.0,7000.0,Colombo,Kohuwala,1,Toyota Raize
+7475000,Mitsubishi,eK Wagon,2025,Reconditioned,Automatic,Hatchback,Petrol,660.0,1100.0,Colombo,Kottawa,1,Mitsubishi eK Wagon
+8175000,Nissan,Magnite,2025,Used,Automatic,SUV / 4x4,Petrol,1000.0,13000.0,Colombo,Nugegoda,1,Nissan Magnite
+12990000,Daihatsu,Rocky,2024,Reconditioned,Automatic,SUV / 4x4,Hybrid,1200.0,27000.0,Colombo,Malabe,1,Daihatsu Rocky
+8900000,Suzuki,Wagon R ZX,2026,Brand New,Automatic,Hatchback,Hybrid,660.0,116.0,Matara,Matara City,1,Suzuki Wagon R ZX
+1865000,Mazda,Familia,1995,Used,Manual,Saloon,Petrol,1300.0,363000.0,Monaragala,Buttala,0,Mazda Familia
+25000000,Tesla,Model 3,2024,Brand New,Automatic,,Electric,,0.0,Gampaha,Negombo,0,Tesla Model 3
+11200000,Toyota,Raize,2024,Reconditioned,Automatic,SUV / 4x4,Petrol,1000.0,72849.0,Colombo,Kalubowila,1,Toyota Raize
+13490000,Toyota,Raize,2026,Import,Automatic,Hatchback,Hybrid,1200.0,,Kurunegala,Kurunegala City,1,Toyota Raize
+17900000,Honda,Vezel,2023,Reconditioned,Automatic,,Hybrid,1500.0,4100.0,Colombo,Pannipitiya,1,Honda Vezel
+5490000,Toyota,Vios,2005,Used,Automatic,Saloon,Petrol,1500.0,127000.0,Colombo,Malabe,1,Toyota Vios
+6500000,Suzuki,Wagon R Stingray,2016,Used,Manual,MPV,Petrol,998.0,35000.0,Colombo,Colombo 2,0,Suzuki Wagon R Stingray
+17850000,Toyota,Corolla,2024,Used,Automatic,Saloon,Petrol,1500.0,12000.0,Colombo,Colombo 4,1,Toyota Corolla
+6190000,Nissan,Dayz,2016,Used,Automatic,Hatchback,Petrol,650.0,62239.0,Colombo,Malabe,1,Nissan Dayz
+3525000,Suzuki,Estilo,2010,Used,Manual,Hatchback,Petrol,1000.0,170000.0,Kandy,Peradeniya,0,Suzuki Estilo
+73000000,Audi,Q7,2025,Brand New,Automatic,SUV / 4x4,Petrol,2000.0,0.0,Colombo,Kotte,1,Audi Q7
+8725000,Honda,Vezel,2014,Used,Automatic,SUV / 4x4,Hybrid,1500.0,127000.0,Colombo,Talawatugoda,1,Honda Vezel
+10800000,Toyota,Yaris,2026,Brand New,Automatic,Hatchback,Petrol,1000.0,0.0,Colombo,Nugegoda,1,Toyota Yaris
+5120000,Suzuki,Celerio,2015,Used,Automatic,Hatchback,Petrol,998.0,94000.0,Colombo,Dehiwala,0,Suzuki Celerio
+7550000,Suzuki,Wagon R,2024,Reconditioned,Automatic,Hatchback,Petrol,660.0,6000.0,Gampaha,Nittambuwa,1,Suzuki Wagon R
+2460000,Hyundai,Accent,2001,Used,Automatic,Saloon,Petrol,1495.0,145000.0,Colombo,Battaramulla,0,Hyundai Accent
+25750000,BMW,530e,2017,Used,Automatic,Saloon,Petrol,2000.0,76000.0,Colombo,Nugegoda,1,BMW 530e
+4000000,Toyota,Starlet,2006,Used,Automatic,Hatchback,Petrol,1300.0,218000.0,Gampaha,Seeduwa,0,Toyota Starlet
+19500000,Mercedes Benz,E350,2017,Used,Tiptronic,Saloon,Hybrid,2000.0,55000.0,Colombo,Kaduwela,1,Mercedes Benz E350
+7750000,Suzuki,Smile,2024,Reconditioned,Automatic,MPV,Petrol,660.0,9000.0,Colombo,Kottawa,1,Suzuki Smile
+7550000,Daihatsu,Mira,2026,Brand New,Automatic,Hatchback,Petrol,660.0,0.0,Colombo,Nugegoda,1,Daihatsu Mira
+2875000,Micro,Geely,2012,Used,Manual,Saloon,Petrol,1500.0,145000.0,Ampara,Sainthamaruthu,0,Micro Geely
+37500000,Mercedes Benz,S400,2013,Used,Automatic,Saloon,Petrol,3500.0,71745.0,Colombo,Colombo 5,1,Mercedes Benz S400
+15490000,BMW,X1,2018,Used,Automatic,SUV / 4x4,Petrol,1500.0,69500.0,Colombo,Rajagiriya,1,BMW X1
+13500000,Toyota,Raize,2026,Brand New,Automatic,SUV / 4x4,Hybrid,1200.0,0.0,Matara,Matara City,1,Toyota Raize
+3700000,Renault,KWID,2016,Used,Manual,Hatchback,Petrol,800.0,162000.0,Trincomalee,Trincomalee City,0,Renault KWID
+11290000,Kia,Sonet,2026,Brand New,Automatic,SUV / 4x4,Petrol,990.0,0.0,Colombo,Kohuwala,1,Kia Sonet
+7500000,Nissan,Dayz,2024,Reconditioned,Automatic,Hatchback,Petrol,660.0,17000.0,Colombo,Kalubowila,1,Nissan Dayz
+7375000,Mitsubishi,eK Wagon,2023,Reconditioned,Automatic,,Petrol,650.0,49000.0,Colombo,Kottawa,1,Mitsubishi eK Wagon
+9500000,Toyota,Roomy,2023,Reconditioned,Automatic,MPV,Petrol,1000.0,13000.0,Matara,Matara City,1,Toyota Roomy
+9800000,Toyota,Hilux,2010,Used,Manual,SUV / 4x4,Diesel,2490.0,187000.0,Galle,Elpitiya,0,Toyota Hilux
+49000000,Mercedes Benz,CLA 200,2026,Import,Tiptronic,Saloon,Petrol,1500.0,4000.0,Colombo,Nugegoda,1,Mercedes Benz CLA 200
+94000000,Toyota,Land Cruiser,2023,Reconditioned,Automatic,SUV / 4x4,Diesel,3300.0,8000.0,Colombo,Kohuwala,1,Toyota Land Cruiser
+39500000,BMW,GT,2018,Used,Automatic,Saloon,Petrol,2000.0,35000.0,Colombo,Kohuwala,1,BMW GT
+17200000,Honda,Vezel,2023,Reconditioned,Automatic,SUV / 4x4,Petrol,1500.0,13000.0,Colombo,Kotikawatta,0,Honda Vezel
+7690000,Nissan,Roox,2024,Import,Automatic,Hatchback,Petrol,660.0,3000.0,Kurunegala,Kurunegala City,1,Nissan Roox
+17445000,Toyota,UrbanCruiser Hyryder,2026,Reconditioned,Automatic,SUV / 4x4,Hybrid,1500.0,76.0,Colombo,Malabe,1,Toyota UrbanCruiser Hyryder
+11775000,Toyota,Raize,2025,Used,Automatic,SUV / 4x4,Petrol,990.0,12000.0,Colombo,Kohuwala,1,Toyota Raize
+61500000,Toyota,Land Cruiser,2016,Used,Automatic,SUV / 4x4,Diesel,4500.0,144000.0,Ratnapura,Embilipitiya,0,Toyota Land Cruiser
+9290000,Toyota,Roomy,2023,Reconditioned,Automatic,,Petrol,1000.0,25200.0,Kandy,Kandy City,1,Toyota Roomy
+12950000,Mitsubishi,Montero,2012,Used,Automatic,SUV / 4x4,Diesel,2500.0,149000.0,Colombo,Kohuwala,1,Mitsubishi Montero
+8150000,Daihatsu,Boon,2023,Reconditioned,Automatic,Hatchback,Petrol,660.0,19000.0,Colombo,Kottawa,1,Daihatsu Boon
+12200000,Audi,A3,2020,Used,Tiptronic,Saloon,Petrol,1400.0,80000.0,Gampaha,Ja-Ela,1,Audi A3
+25200000,Mercedes Benz,C200,2019,Used,Automatic,Saloon,Petrol,1500.0,44000.0,Colombo,Kohuwala,1,Mercedes Benz C200
+6990000,Suzuki,Wagon R Stingray,2018,Used,Automatic,Hatchback,Hybrid,650.0,69000.0,Colombo,Colombo 6,1,Suzuki Wagon R Stingray
+13550000,Toyota,Raize,2026,Brand New,Automatic,SUV / 4x4,Hybrid,1200.0,0.0,Batticaloa,Batticaloa City,1,Toyota Raize
+10265000,Toyota,Yaris,2026,Import,Automatic,Hatchback,Petrol,1000.0,9.0,Colombo,Malabe,1,Toyota Yaris
+19975000,Honda,Vezel,2026,Brand New,Automatic,SUV / 4x4,Hybrid,1500.0,1.0,Gampaha,Kandana,0,Honda Vezel
+12390000,Suzuki,Swift,2024,Reconditioned,Tiptronic,Hatchback,Hybrid,1200.0,13500.0,Gampaha,Ja-Ela,1,Suzuki Swift
+14600000,Toyota,Premio,2017,Used,Automatic,Saloon,Petrol,1500.0,46000.0,Colombo,Nugegoda,0,Toyota Premio
+20200000,Honda,Vezel,2026,Brand New,Automatic,SUV / 4x4,Hybrid,1500.0,0.0,Colombo,Dehiwala,1,Honda Vezel
+8550000,DFSK,Glory,2021,Used,Automatic,SUV / 4x4,Petrol,1500.0,77000.0,Colombo,Colombo 4,1,DFSK Glory
+10750000,Toyota,Taisor,2026,Brand New,Automatic,SUV / 4x4,Petrol,1000.0,0.0,Colombo,Nugegoda,1,Toyota Taisor
+8250000,Nissan,Roox,2025,Reconditioned,Automatic,MPV,Hybrid,660.0,3100.0,Matara,Matara City,1,Nissan Roox
+1850000,Maruti Suzuki,800,2001,Used,Manual,Hatchback,Petrol,800.0,210000.0,Kegalle,Rambukkana,0,Maruti Suzuki 800
+23780000,Honda,CRV,2019,Used,Automatic,SUV / 4x4,Petrol,1500.0,47000.0,Colombo,Colombo 14,0,Honda CRV
+23900000,Mercedes Benz,CLA 200,2020,Used,Automatic,Saloon,Petrol,1400.0,63000.0,Matara,Matara City,0,Mercedes Benz CLA 200
+4050000,Suzuki,Alto,2015,Used,Manual,Hatchback,Petrol,800.0,15000.0,Badulla,Bandarawela,0,Suzuki Alto
+12990000,Toyota,Raize,2026,Import,Automatic,Station wagon,Hybrid,1190.0,50.0,Gampaha,Negombo,1,Toyota Raize
+9375000,Toyota,Yaris,2024,Reconditioned,Automatic,Hatchback,Petrol,1000.0,11000.0,Gampaha,Kandana,0,Toyota Yaris
+2500000,Maruti Suzuki,800,2010,Used,Manual,Hatchback,Petrol,800.0,134400.0,Kandy,Kandy City,0,Maruti Suzuki 800
+40000000,Mercedes Benz,CLA 250,2025,Brand New,Tiptronic,Saloon,Hybrid,1300.0,0.0,Colombo,Kohuwala,1,Mercedes Benz CLA 250
+6300000,Suzuki,Spacia,2016,Used,Automatic,MPV,Petrol,660.0,137883.0,Colombo,Wellampitiya,0,Suzuki Spacia
+4600000,Honda,City,2004,Used,Automatic,Saloon,Petrol,1500.0,198000.0,Colombo,Battaramulla,1,Honda City
+13500000,Toyota,CHR,2019,Used,Automatic,SUV / 4x4,Petrol,1190.0,69635.0,Gampaha,Gampaha City,0,Toyota CHR
+7575000,Nissan,Magnite,2025,Used,Automatic,SUV / 4x4,Petrol,1000.0,11000.0,Colombo,Nugegoda,1,Nissan Magnite
+26500000,Toyota,Other Model,2026,Brand New,Automatic,Hatchback,Petrol,2800.0,0.0,Ratnapura,Ratnapura City,1,Toyota Other Model
+6500000,Suzuki,Alto,2024,Reconditioned,Automatic,Hatchback,Petrol,660.0,2100.0,Matara,Matara City,1,Suzuki Alto
+4375000,Nissan,Sunny,2003,Used,Automatic,Saloon,Petrol,1300.0,249000.0,Gampaha,Kandana,1,Nissan Sunny
+9300000,Toyota,Yaris,2024,Reconditioned,Automatic,Hatchback,Petrol,1000.0,9472.0,Colombo,Malabe,1,Toyota Yaris
+68000000,Mercedes Benz,E350,2025,Reconditioned,Tiptronic,Saloon,Hybrid,2000.0,10000.0,Colombo,Kohuwala,1,Mercedes Benz E350
+14000000,Audi,A3,2024,Import,Automatic,Hatchback,Petrol,1000.0,10000.0,Colombo,Kohuwala,1,Audi A3
+18650000,Honda,Vezel,2025,Used,Automatic,SUV / 4x4,Hybrid,1500.0,25000.0,Gampaha,Kandana,1,Honda Vezel
+15900000,Mercedes Benz,CLA 180,2018,Used,Tiptronic,Saloon,Petrol,1600.0,51000.0,Colombo,Kesbewa,0,Mercedes Benz CLA 180
+10675000,Toyota,Roomy,2025,Used,Automatic,MPV,Petrol,1000.0,11000.0,Gampaha,Kandana,0,Toyota Roomy
+6800000,Toyota,Allion,2006,Used,Automatic,Saloon,Petrol,1500.0,198600.0,Colombo,Colombo 4,0,Toyota Allion
+7050000,Mitsubishi,Pajero,1993,Used,Manual,SUV / 4x4,Diesel,2500.0,277200.0,Colombo,Maharagama,0,Mitsubishi Pajero
+11800000,Toyota,Raize,2026,Brand New,Automatic,SUV / 4x4,Petrol,1000.0,100.0,Colombo,Colombo 6,1,Toyota Raize
+20000000,Honda,Vezel,2026,Brand New,Automatic,Hatchback,Hybrid,1500.0,200.0,Colombo,Kohuwala,1,Honda Vezel
+13700000,Toyota,Raize,2026,Brand New,Automatic,Hatchback,Hybrid,1200.0,0.0,Kandy,Kandy City,1,Toyota Raize
+7250000,Daihatsu,Mira,2024,Reconditioned,Automatic,Hatchback,Petrol,650.0,8000.0,Gampaha,Kadawatha,1,Daihatsu Mira
+1800000,Tata,Indica,2005,Used,Manual,Hatchback,Petrol,1450.0,180000.0,Batticaloa,Batticaloa City,0,Tata Indica
+7380000,Suzuki,Wagon R,2018,Used,Automatic,Hatchback,Petrol,660.0,32000.0,Gampaha,Pugoda,0,Suzuki Wagon R
+11000000,Nissan,X-Trail,2013,Used,Automatic,SUV / 4x4,Diesel,2000.0,170000.0,Colombo,Kotte,0,Nissan X-Trail
+11990000,Kia,Sonet,2026,Brand New,Automatic,SUV / 4x4,Petrol,1000.0,0.0,Colombo,Nugegoda,1,Kia Sonet
+1790000,Proton,Wira,2001,Used,Manual,Saloon,Petrol,1500.0,170000.0,Gampaha,Divulapitiya,0,Proton Wira
+5025000,Suzuki,Celerio,2016,Used,Manual,Hatchback,Petrol,1000.0,129000.0,Batticaloa,Batticaloa City,0,Suzuki Celerio
+22600000,BMW,520d,2015,Used,Automatic,Saloon,Diesel,2000.0,129500.0,Gampaha,Mirigama,0,BMW 520d
+14250000,BAIC,X55 II,2026,Used,Automatic,SUV / 4x4,Petrol,1500.0,176.0,Puttalam,Chilaw,0,BAIC X55 II
+14500000,Toyota,Raize,2026,Brand New,Automatic,SUV / 4x4,Hybrid,1200.0,0.0,Kandy,Katugastota,1,Toyota Raize
+18500000,Toyota,Corolla,2024,Import,Automatic,Saloon,Petrol,1500.0,8000.0,Colombo,Kohuwala,1,Toyota Corolla
+7975000,Suzuki,XBee,2018,Used,Automatic,Hatchback,Hybrid,650.0,62000.0,Colombo,Colombo 6,1,Suzuki XBee
+9550000,Toyota,Yaris,2023,Reconditioned,Automatic,Hatchback,Petrol,996.0,22000.0,Kurunegala,Kurunegala City,1,Toyota Yaris
+59000000,Toyota,Land Cruiser,2026,Brand New,Automatic,SUV / 4x4,Petrol,2800.0,0.0,Colombo,Mount Lavinia,1,Toyota Land Cruiser
+12500000,Mitsubishi,Outlander,2014,Used,Automatic,SUV / 4x4,Hybrid,1990.0,110000.0,Gampaha,Kadawatha,0,Mitsubishi Outlander
+28500000,BMW,420d,2014,Used,Automatic,Saloon,Diesel,2000.0,66000.0,Colombo,Colombo 5,1,BMW 420d
+8000000,Toyota,Allion,2007,Used,Automatic,Saloon,Petrol,1490.0,159600.0,Colombo,Homagama,0,Toyota Allion
+5225000,Micro,X25,2017,Used,Automatic,Hatchback,Petrol,1500.0,114000.0,Colombo,Homagama,0,Micro X25
+9375000,Toyota,Aqua,2016,Used,Automatic,Hatchback,Hybrid,1500.0,120000.0,Colombo,Dehiwala,1,Toyota Aqua
+13400000,Audi,Q2,2018,Used,Automatic,SUV / 4x4,Petrol,1000.0,35587.0,Colombo,Colombo 5,1,Audi Q2
+3950000,Hyundai,Eon,2016,Used,Manual,Hatchback,Petrol,,126000.0,Matara,Matara City,0,Hyundai Eon
+6975000,Daihatsu,Mira,2024,Reconditioned,Automatic,Hatchback,Petrol,660.0,28000.0,Colombo,Nugegoda,0,Daihatsu Mira
+4050000,Suzuki,Alto,2015,Used,Manual,Hatchback,Petrol,800.0,190000.0,Colombo,Piliyandala,0,Suzuki Alto
+11300000,Toyota,Raize,2025,Import,Automatic,SUV / 4x4,Petrol,1000.0,10000.0,Gampaha,Kelaniya,1,Toyota Raize
+3890000,Suzuki,Alto,2015,Used,Manual,Station wagon,Petrol,800.0,160000.0,Colombo,Homagama,1,Suzuki Alto
+9850000,Nissan,Gravite,2026,Brand New,Automatic,Hatchback,Petrol,1000.0,0.0,Colombo,Kohuwala,1,Nissan Gravite
+10290000,Suzuki,Fronx,2026,Brand New,Automatic,SUV / 4x4,Hybrid,998.0,0.0,Colombo,Colombo 2,1,Suzuki Fronx
+28500000,BMW,220i,2025,Import,Automatic,Saloon,Petrol,1500.0,1000.0,Colombo,Kohuwala,1,BMW 220i
+13475000,Volkswagen,T-Cross,2024,Reconditioned,Automatic,SUV / 4x4,Petrol,1000.0,12000.0,Colombo,Kohuwala,1,Volkswagen T-Cross
+10265000,Toyota,Yaris,2026,Import,Automatic,Hatchback,Petrol,1000.0,9.0,Colombo,Malabe,1,Toyota Yaris
+80000000,Land Rover,Defender,2026,Brand New,Tiptronic,SUV / 4x4,Hybrid,2000.0,10.0,Colombo,Kohuwala,1,Land Rover Defender
+2500000,Maruti Suzuki,800,2006,Used,Manual,Hatchback,Petrol,800.0,100000.0,Anuradhapura,Anuradhapura City,0,Maruti Suzuki 800
+10950000,Toyota,Raize,2024,Reconditioned,Automatic,SUV / 4x4,Petrol,1000.0,72800.0,Colombo,Kottawa,1,Toyota Raize
+90000000,Toyota,Land Cruiser,2024,Used,Automatic,SUV / 4x4,Petrol,3500.0,9000.0,Colombo,Colombo 6,0,Toyota Land Cruiser
+42500000,Jeep,Wrangler,2018,Used,Automatic,SUV / 4x4,Petrol,2000.0,58000.0,Colombo,Nugegoda,1,Jeep Wrangler
+8390000,Suzuki,Wagon R,2026,Import,Automatic,Hatchback,Petrol,660.0,,Colombo,Malabe,1,Suzuki Wagon R
+6785000,Suzuki,Wagon R FX,2017,Used,Automatic,Hatchback,Hybrid,650.0,82738.0,Colombo,Moratuwa,1,Suzuki Wagon R FX
+8350000,MG,ZS,2019,Used,Tiptronic,SUV / 4x4,Petrol,1000.0,93650.0,Colombo,Homagama,0,MG ZS
+8300000,Daihatsu,Boon,2023,Used,Automatic,,Petrol,1000.0,8500.0,Colombo,Kottawa,1,Daihatsu Boon
+4850000,Kia,Sorento,2004,Used,Manual,SUV / 4x4,Petrol,2400.0,116000.0,Colombo,Colombo 6,1,Kia Sorento
+9000000,Honda,Vezel,2014,Used,Automatic,SUV / 4x4,Hybrid,1500.0,103000.0,Ampara,Kalmunai,0,Honda Vezel
+13000000,Toyota,Raize,2026,Import,Automatic,SUV / 4x4,Petrol,1000.0,4.0,Kurunegala,Kurunegala City,1,Toyota Raize
+9500000,Audi,A4,2011,Used,Automatic,Saloon,Petrol,1800.0,138000.0,Colombo,Nugegoda,1,Audi A4
+5600000,Toyota,Yaris,2007,Used,Manual,Saloon,Petrol,1300.0,125000.0,Gampaha,Negombo,0,Toyota Yaris
+6300000,Toyota,Harrier,2002,Used,Automatic,,Petrol,3000.0,200000.0,Gampaha,Negombo,0,Toyota Harrier
+6725000,Honda,N-WGN,2023,Reconditioned,Automatic,Hatchback,Petrol,660.0,85000.0,Colombo,Kottawa,1,Honda N-WGN
+18250000,Honda,Vezel,2023,Used,Automatic,SUV / 4x4,Hybrid,1490.0,13000.0,Colombo,Kohuwala,1,Honda Vezel
+13350000,Honda,City,2026,Import,Automatic,Saloon,Petrol,1000.0,,Colombo,Malabe,1,Honda City
+1600000,Toyota,Corolla,1987,Used,Manual,Station wagon,Petrol,1300.0,300000.0,Gampaha,Kelaniya,0,Toyota Corolla
+9100000,Suzuki,Wagon R,2026,Brand New,Automatic,Hatchback,Hybrid,660.0,0.0,Colombo,Dehiwala,1,Suzuki Wagon R
+5400000,Toyota,Vitz,2006,Used,Automatic,Hatchback,Petrol,1000.0,148500.0,Kandy,Peradeniya,0,Toyota Vitz
+2275000,Toyota,Corolla,1989,Used,Manual,Saloon,Petrol,1500.0,190000.0,Gampaha,Biyagama,0,Toyota Corolla
+8495000,Nissan,Roox,2026,Reconditioned,Automatic,MPV,Hybrid,660.0,8900.0,Colombo,Nugegoda,1,Nissan Roox
+87500000,Land Rover,Defender,2026,Brand New,Automatic,SUV / 4x4,Hybrid,2000.0,0.0,Colombo,Kotte,1,Land Rover Defender
+2800000,Nissan,Sunny,1993,Used,Manual,Saloon,Petrol,1500.0,230000.0,Gampaha,Gampaha City,0,Nissan Sunny
+11700000,Honda,Vezel,2017,Used,Automatic,SUV / 4x4,Petrol,1500.0,140000.0,Colombo,Colombo 7,0,Honda Vezel
+7200000,Tata,Nexon,2019,Used,Automatic,SUV / 4x4,Petrol,1198.0,36350.0,Colombo,Kotte,0,Tata Nexon
+8350000,Toyota,Passo,2023,Reconditioned,Automatic,Hatchback,Petrol,1000.0,17000.0,Colombo,Kottawa,1,Toyota Passo
+7750000,Suzuki,Every,2025,Reconditioned,Automatic,Hatchback,Petrol,650.0,10000.0,Colombo,Dehiwala,1,Suzuki Every
+1750000,Nissan,Sunny,1987,Used,Manual,Saloon,Diesel,1700.0,387000.0,Colombo,Homagama,0,Nissan Sunny
+6050000,Suzuki,Wagon R FX,2015,Used,Automatic,Hatchback,Hybrid,650.0,91294.0,Colombo,Moratuwa,1,Suzuki Wagon R FX
+7050000,Daihatsu,Mira,2025,Brand New,Automatic,Hatchback,Petrol,660.0,0.0,Colombo,Nugegoda,1,Daihatsu Mira
+8800000,Suzuki,Wagon R,2025,Reconditioned,Automatic,Hatchback,Hybrid,660.0,6370.0,Kalutara,Beruwala,1,Suzuki Wagon R
+18500000,Mercedes Benz,C200,2019,Used,Automatic,Saloon,Petrol,1500.0,130000.0,Colombo,Nugegoda,0,Mercedes Benz C200
+7350000,Hyundai,Tucson,2012,Used,Automatic,SUV / 4x4,Diesel,2000.0,138000.0,Gampaha,Gampaha City,0,Hyundai Tucson
+8450000,Toyota,Roomy,2023,Used,Automatic,,Petrol,1000.0,47000.0,Colombo,Kottawa,1,Toyota Roomy
+11100000,Toyota,Taisor,2026,Brand New,Automatic,Saloon,Petrol,998.0,132.0,Kurunegala,Kurunegala City,1,Toyota Taisor
+7200000,Suzuki,Alto,2023,Reconditioned,Automatic,Hatchback,Hybrid,660.0,8000.0,Colombo,Rajagiriya,1,Suzuki Alto
+5375000,Suzuki,Celerio,2017,Used,Automatic,Hatchback,Petrol,1000.0,116000.0,Gampaha,Kadawatha,1,Suzuki Celerio
+9300000,Honda,Vezel,2014,Used,Automatic,SUV / 4x4,Hybrid,1490.0,179000.0,Colombo,Moratuwa,0,Honda Vezel
+80000000,Land Rover,Defender,2025,Brand New,Tiptronic,SUV / 4x4,Hybrid,2000.0,0.0,Colombo,Kohuwala,1,Land Rover Defender
+7622881,Mahindra,Scorpio Pikup,2026,Brand New,Manual,,Diesel,2179.0,0.0,Mullativu,Mullativu City,1,Mahindra Scorpio Pikup
+18000000,Mitsubishi,Eclipse Cross,2020,Used,Automatic,,Petrol,1499.0,14850.0,Colombo,Nugegoda,0,Mitsubishi Eclipse Cross
+16800000,Audi,A4,2018,Used,Automatic,Saloon,Petrol,1395.0,120000.0,Colombo,Colombo 3,1,Audi A4
+5400000,Suzuki,Swift,2008,Used,Automatic,,Petrol,1240.0,156000.0,Matale,Dambulla,0,Suzuki Swift
+8900000,Suzuki,Wagon R,2026,Brand New,Automatic,Hatchback,Hybrid,660.0,6.0,Kurunegala,Kurunegala City,1,Suzuki Wagon R
+12850000,Toyota,Raize,2025,Brand New,Automatic,SUV / 4x4,Petrol,1000.0,1.0,Gampaha,Kandana,0,Toyota Raize
+17750000,Honda,Vezel,2025,Reconditioned,Tiptronic,SUV / 4x4,Hybrid,1500.0,9000.0,Gampaha,Ja-Ela,1,Honda Vezel
+6545000,Daihatsu,Mira,2025,Used,Automatic,Hatchback,Petrol,650.0,3000.0,Colombo,Kohuwala,1,Daihatsu Mira
+6300000,Toyota,Prius,2008,Used,Automatic,Hatchback,Hybrid,1500.0,149000.0,Gampaha,Kadawatha,0,Toyota Prius
+3850000,Nissan,Wingroad,2000,Used,Automatic,Station wagon,Petrol,1500.0,275000.0,Colombo,Battaramulla,1,Nissan Wingroad
+6600000,Toyota,Pixis,2024,Reconditioned,Automatic,Hatchback,Petrol,660.0,12000.0,Colombo,Rajagiriya,1,Toyota Pixis
+5400000,Toyota,Hilux,1993,Used,Manual,SUV / 4x4,Diesel,2770.0,525127.0,Colombo,Kottawa,0,Toyota Hilux
+6200000,Suzuki,Hustler,2016,Used,Automatic,Hatchback,Petrol,650.0,86000.0,Kalutara,Panadura,0,Suzuki Hustler
+12950000,Audi,A3,2018,Used,Automatic,Saloon,Petrol,1000.0,120000.0,Colombo,Colombo 4,0,Audi A3
+28800000,BMW,530i,2017,Reconditioned,Automatic,Saloon,Petrol,2000.0,24000.0,Colombo,Kohuwala,1,BMW 530i
+34000000,Ford,Other Model,2026,Brand New,Automatic,SUV / 4x4,Petrol,1800.0,0.0,Colombo,Dehiwala,1,Ford Other Model
+59900000,Toyota,Land Cruiser Prado,2026,Brand New,Automatic,SUV / 4x4,Petrol,2700.0,11.0,Colombo,Battaramulla,1,Toyota Land Cruiser Prado
+25000000,Mercedes Benz,E350,2017,Used,Automatic,Saloon,Hybrid,2000.0,60000.0,Colombo,Colombo 6,1,Mercedes Benz E350
+1290000,Nissan,Sunny,1985,Used,Manual,Saloon,Petrol,1300.0,16000.0,Kurunegala,Wariyapola,0,Nissan Sunny
+6475000,Suzuki,Alto,2023,Reconditioned,Automatic,Hatchback,Petrol,660.0,14000.0,Colombo,Kottawa,1,Suzuki Alto
+7000000,Toyota,Axio,2008,Used,Automatic,Saloon,Petrol,1490.0,176256.0,Matale,Matale City,0,Toyota Axio
+7250000,Suzuki,Wagon R,2018,Used,Automatic,Hatchback,Petrol,660.0,111669.0,Puttalam,Marawila,0,Suzuki Wagon R
+7250000,Mitsubishi,eK Wagon,2023,Reconditioned,Automatic,Hatchback,Petrol,660.0,19000.0,Colombo,Kalubowila,1,Mitsubishi eK Wagon
+6650000,Honda,Civic,2007,Used,Automatic,Saloon,Petrol,1800.0,123000.0,Gampaha,Wattala,0,Honda Civic
+1350000,Other brand,Other model,2004,Used,Manual,Coupé/Sports,Diesel,1900.0,110000.0,Puttalam,Chilaw,0,Other brand Other model
+26500000,Volvo,S90,2017,Used,Automatic,Saloon,Petrol,2000.0,39100.0,Colombo,Kohuwala,1,Volvo S90
+31000000,Toyota,Land Cruiser,2013,Used,Automatic,SUV / 4x4,Diesel,3000.0,140000.0,Colombo,Kohuwala,1,Toyota Land Cruiser
+54500000,Toyota,Land Cruiser,2024,Used,Automatic,SUV / 4x4,Petrol,2693.0,24500.0,Kurunegala,Kurunegala City,0,Toyota Land Cruiser
+9300000,Honda,Vezel,2014,Used,Automatic,SUV / 4x4,Hybrid,1498.0,127000.0,Badulla,Badulla City,0,Honda Vezel
+12700000,Toyota,Raize,2026,Brand New,Tiptronic,Hatchback,Petrol,1000.0,0.0,Colombo,Colombo 4,0,Toyota Raize
+10800000,Toyota,Raize,2025,Import,Automatic,SUV / 4x4,Petrol,1000.0,10000.0,Gampaha,Kelaniya,1,Toyota Raize
+11590000,Toyota,Axio,2017,Used,Automatic,Saloon,Hybrid,1500.0,164000.0,Colombo,Malabe,1,Toyota Axio
+27000000,Toyota,Hilux,2025,Brand New,Automatic,SUV / 4x4,Diesel,2800.0,0.0,Colombo,Kalubowila,1,Toyota Hilux
+51500000,Toyota,Land Cruiser Sahara,2015,Used,Automatic,Station wagon,Diesel,4500.0,102000.0,Colombo,Nugegoda,1,Toyota Land Cruiser Sahara
+17000000,Toyota,Corolla,2025,Import,Automatic,Station wagon,Petrol,1500.0,10000.0,Colombo,Kohuwala,1,Toyota Corolla
+18490000,Honda,Vezel,2026,Brand New,Automatic,Hatchback,Hybrid,1500.0,0.0,Colombo,Kohuwala,1,Honda Vezel
+6900000,Toyota,Aqua,2012,Used,Automatic,Hatchback,Hybrid,1500.0,183000.0,Colombo,Angoda,0,Toyota Aqua
+7950000,Volkswagen,Passat,2012,Used,Automatic,Saloon,Diesel,2000.0,107000.0,Colombo,Kohuwala,1,Volkswagen Passat
+44900000,Land Rover,Range Rover,2018,Used,Automatic,SUV / 4x4,Hybrid,1997.0,48000.0,Colombo,Colombo 13,0,Land Rover Range Rover
+6390000,Daihatsu,Mira,2026,Import,Automatic,Hatchback,Petrol,660.0,4.0,Kurunegala,Kurunegala City,1,Daihatsu Mira
+13650000,Toyota,Raize,2026,Brand New,Automatic,SUV / 4x4,Hybrid,1200.0,0.0,Colombo,Kohuwala,1,Toyota Raize
+8950000,Kia,Stonic,2018,Used,Automatic,SUV / 4x4,Petrol,998.0,84982.0,Colombo,Malabe,1,Kia Stonic
+10950000,Toyota,Taisor,2026,Brand New,Automatic,Hatchback,Petrol,1000.0,0.0,Colombo,Dehiwala,1,Toyota Taisor
+6390000,Suzuki,Wagon R FX,2018,Used,Automatic,Hatchback,Hybrid,660.0,89000.0,Colombo,Boralesgamuwa,1,Suzuki Wagon R FX
+69000000,Mercedes Benz,E350,2025,Reconditioned,Automatic,Hatchback,Petrol,2000.0,8700.0,Colombo,Kalubowila,1,Mercedes Benz E350
+17350000,Honda,Vezel,2025,Brand New,Automatic,SUV / 4x4,Hybrid,1500.0,10.0,Colombo,Colombo 4,1,Honda Vezel
+7375000,Toyota,Pixis,2024,Reconditioned,Automatic,Hatchback,Petrol,660.0,5000.0,Colombo,Angoda,1,Toyota Pixis
+7890000,Suzuki,Wagon R FX,2024,Reconditioned,Automatic,Hatchback,Hybrid,650.0,1800.0,Colombo,Kohuwala,1,Suzuki Wagon R FX
+9500000,Mini,Cooper,2014,Used,Automatic,Hatchback,Diesel,1500.0,109000.0,Colombo,Colombo 5,1,Mini Cooper
+10575000,Toyota,Hilux,2008,Used,Manual,SUV / 4x4,Diesel,2500.0,220000.0,Colombo,Malabe,1,Toyota Hilux
+3990000,Suzuki,Alto,2015,Used,Manual,Hatchback,Petrol,800.0,110000.0,Gampaha,Kadawatha,0,Suzuki Alto
+6150000,Suzuki,Wagon R,2018,Used,Automatic,Hatchback,Petrol,660.0,120000.0,Gampaha,Gampaha City,0,Suzuki Wagon R
+14000000,Toyota,Premio,2017,Used,Automatic,Saloon,Petrol,1500.0,85000.0,Kalutara,Matugama,0,Toyota Premio
+2100000,Tata,Nano,2016,Used,Manual,Hatchback,Petrol,624.0,250000.0,Colombo,Battaramulla,0,Tata Nano
+9400000,Suzuki,Wagon R,2026,Reconditioned,Automatic,Hatchback,Hybrid,660.0,1700.0,Colombo,Malabe,0,Suzuki Wagon R
+18595000,Honda,Vezel,2026,Import,Automatic,SUV / 4x4,Hybrid,1500.0,3.0,Ratnapura,Embilipitiya,1,Honda Vezel
+45000000,BMW,X5,2020,Used,Automatic,SUV / 4x4,Diesel,2000.0,55000.0,Colombo,Nawala,0,BMW X5
+9950000,Toyota,Roomy,2023,Used,Automatic,MPV,Petrol,1000.0,19000.0,Kurunegala,Kurunegala City,1,Toyota Roomy
+1850000,Toyota,Starlet,1987,Used,Manual,Hatchback,Petrol,1300.0,248316.0,Kurunegala,Kuliyapitiya,0,Toyota Starlet
+7550000,Daihatsu,Mira,2026,Brand New,Automatic,Hatchback,Petrol,660.0,0.0,Colombo,Nugegoda,1,Daihatsu Mira
+12250000,Toyota,Raize,2025,Brand New,Automatic,SUV / 4x4,Petrol,1000.0,7500.0,Gampaha,Nittambuwa,1,Toyota Raize
+10950000,Toyota,CHR,2017,Reconditioned,Automatic,SUV / 4x4,Petrol,1200.0,112000.0,Colombo,Nugegoda,1,Toyota CHR
+26000000,Toyota,Hilux,2025,Brand New,Automatic,SUV / 4x4,Diesel,2400.0,0.0,Colombo,Kalubowila,1,Toyota Hilux
+11950000,Skoda,Kylaq,2025,Brand New,Automatic,Hatchback,Petrol,1000.0,0.0,Colombo,Kotte,1,Skoda Kylaq
+98000000,Toyota,Land Cruiser Prado,2025,Brand New,Tiptronic,SUV / 4x4,Petrol,3500.0,10.0,Colombo,Kohuwala,1,Toyota Land Cruiser Prado
+10750000,Toyota,Yaris,2025,Brand New,Automatic,Hatchback,Petrol,1000.0,0.0,Gampaha,Gampaha City,1,Toyota Yaris
+8290000,Suzuki,Wagon R,2026,Brand New,Automatic,Hatchback,Petrol,650.0,5.0,Colombo,Boralesgamuwa,1,Suzuki Wagon R
+12800000,Mini,Countryman,2018,Used,Tiptronic,SUV / 4x4,Petrol,1500.0,165000.0,Colombo,Colombo 3,1,Mini Countryman
+20290000,Honda,Vezel,2026,Brand New,Automatic,SUV / 4x4,Hybrid,1500.0,0.0,Colombo,Nugegoda,1,Honda Vezel
+15600000,Toyota,Yaris Cross,2025,Import,Automatic,SUV / 4x4,Hybrid,1500.0,10000.0,Gampaha,Veyangoda,1,Toyota Yaris Cross
+6290000,Honda,Fit,2012,Used,Automatic,Hatchback,Hybrid,1300.0,190000.0,Colombo,Dehiwala,1,Honda Fit
+20490000,Honda,Vezel,2026,Brand New,Automatic,SUV / 4x4,Hybrid,1490.0,20.0,Colombo,Boralesgamuwa,1,Honda Vezel
+10200000,Toyota,Hilux,2008,Used,Manual,SUV / 4x4,Diesel,3000.0,195000.0,Colombo,Kesbewa,0,Toyota Hilux
+5400000,Suzuki,Celerio,2016,Used,Tiptronic,Hatchback,Petrol,1000.0,148000.0,Colombo,Homagama,0,Suzuki Celerio
+65000000,Mercedes Benz,E200,2025,Brand New,Tiptronic,Saloon,Petrol,2000.0,0.0,Colombo,Kohuwala,1,Mercedes Benz E200
+27500000,Mercedes Benz,A180,2025,Import,Automatic,Saloon,Petrol,1400.0,8000.0,Colombo,Kohuwala,1,Mercedes Benz A180
+7622881,Mahindra,Scorpio,2026,Brand New,Manual,,Diesel,2179.0,0.0,Vavuniya,Vavuniya City,1,Mahindra Scorpio
+7450000,Daihatsu,Mira,2025,Brand New,Automatic,Hatchback,Petrol,650.0,0.0,Colombo,Kohuwala,1,Daihatsu Mira
+9875000,Suzuki,Every,2025,Brand New,Automatic,MPV,Petrol,650.0,0.0,Colombo,Kohuwala,1,Suzuki Every
+6980000,Suzuki,Wagon R,2017,Used,Automatic,Hatchback,Petrol,660.0,85000.0,Colombo,Battaramulla,0,Suzuki Wagon R
+8350000,Nissan,Dayz,2025,Brand New,Automatic,Hatchback,Hybrid,660.0,0.0,Colombo,Nugegoda,1,Nissan Dayz
+4500000,Nissan,Sunny,2001,Used,Automatic,Saloon,Petrol,1500.0,200160.0,Trincomalee,Kinniya,0,Nissan Sunny
+1050000,Toyota,Corolla,1987,Used,Manual,Station wagon,Petrol,1480.0,195990.0,Gampaha,Minuwangoda,0,Toyota Corolla
+70000000,Audi,Q7,2025,Brand New,Tiptronic,SUV / 4x4,Petrol,2000.0,10.0,Colombo,Kohuwala,1,Audi Q7
+6200000,Suzuki,Escudo,2003,Used,Automatic,SUV / 4x4,Petrol,2700.0,228000.0,Colombo,Malabe,0,Suzuki Escudo
+7622881,Mahindra,Scorpio,2026,Brand New,Manual,,Diesel,2179.0,0.0,Kalutara,Kalutara City,1,Mahindra Scorpio
+7100000,Suzuki,Wagon R Stingray,2017,Used,Automatic,,Petrol,660.0,140000.0,Kandy,Kandy City,0,Suzuki Wagon R Stingray
+75000000,Land Rover,Defender,2026,Brand New,Tiptronic,SUV / 4x4,Petrol,2000.0,10.0,Colombo,Kohuwala,1,Land Rover Defender
+17400000,Toyota,Hyryder,2026,Brand New,Automatic,SUV / 4x4,Petrol,1500.0,60.0,Colombo,Dehiwala,1,Toyota Hyryder
+33000000,Peugeot,5008,2025,Used,Automatic,SUV / 4x4,Petrol,1200.0,,Colombo,Kohuwala,1,Peugeot 5008
+12375000,Peugeot,3008,2017,Used,Automatic,SUV / 4x4,Petrol,1200.0,119000.0,Gampaha,Seeduwa,0,Peugeot 3008
+14000000,Toyota,Premio,2017,Used,Automatic,Saloon,Petrol,1500.0,151000.0,Kandy,Kandy City,0,Toyota Premio
+7375000,Mitsubishi,eK Wagon,2024,Reconditioned,Automatic,Hatchback,Petrol,660.0,17300.0,Colombo,Kottawa,1,Mitsubishi eK Wagon
+11075000,Volkswagen,Taigun,2026,Brand New,Automatic,Hatchback,Petrol,1000.0,0.0,Colombo,Boralesgamuwa,1,Volkswagen Taigun
+7180000,Daihatsu,Mira,2024,Import,Automatic,Hatchback,Petrol,660.0,,Colombo,Malabe,1,Daihatsu Mira
+9500000,Suzuki,Spacia,2025,Used,Automatic,Hatchback,Petrol,690.0,13772.0,Gampaha,Kadawatha,0,Suzuki Spacia
+6300000,Toyota,Corolla,2008,Used,Automatic,Saloon,Petrol,1600.0,241000.0,Colombo,Colombo 6,0,Toyota Corolla
+6500000,Suzuki,Wagon R,2017,Used,Automatic,Hatchback,Hybrid,660.0,92000.0,Puttalam,Chilaw,0,Suzuki Wagon R
+6750000,DFSK,Glory,2021,Used,Automatic,SUV / 4x4,Petrol,1490.0,54000.0,Gampaha,Negombo,0,DFSK Glory
+20600000,Honda,Civic,2025,Used,Automatic,,Petrol,1500.0,2500.0,Colombo,Boralesgamuwa,0,Honda Civic
+5800000,Toyota,Hilux,2008,Used,Automatic,Saloon,Petrol,1300.0,157800.0,Colombo,Moratuwa,0,Toyota Hilux
+8500000,Kia,Sorento,2011,Used,Automatic,,Petrol,2349.0,168450.0,Gampaha,Gampaha City,0,Kia Sorento
+29800000,BMW,740Le,2016,Used,Automatic,Saloon,Petrol,2000.0,60000.0,Colombo,Nugegoda,1,BMW 740Le
+13525900,Mahindra,Scorpio Pikup,2026,Brand New,Automatic,,Diesel,2179.0,0.0,Badulla,Badulla City,1,Mahindra Scorpio Pikup
+13900000,Toyota,Raize,2026,Brand New,Automatic,SUV / 4x4,Petrol,1200.0,4.0,Gampaha,Gampaha City,1,Toyota Raize
+9850000,Mitsubishi,Delica,2025,Brand New,Automatic,MPV,Hybrid,660.0,0.0,Gampaha,Kandana,0,Mitsubishi Delica
+11850000,Nissan,Almera,2025,Reconditioned,Automatic,Saloon,Petrol,1000.0,5000.0,Colombo,Battaramulla,1,Nissan Almera
+25000000,Audi,Q4 E-Tron S Line,2023,Used,Automatic,Saloon,Electric,,41000.0,Kalutara,Bandaragama,0,Audi Q4 E-Tron S Line
+11500000,Mitsubishi,Outlander,2014,Reconditioned,Automatic,SUV / 4x4,Hybrid,2000.0,183000.0,Colombo,Kottawa,1,Mitsubishi Outlander
+15450000,Honda,CRV,2018,Used,Automatic,SUV / 4x4,Petrol,1500.0,111200.0,Colombo,Kotte,0,Honda CRV
+9290000,Honda,N-Box,2024,Reconditioned,Automatic,Hatchback,Petrol,660.0,13500.0,Colombo,Dehiwala,1,Honda N-Box
+10525000,Audi,A3,2016,Reconditioned,Automatic,Saloon,Petrol,1400.0,175000.0,Colombo,Kohuwala,1,Audi A3
+7622881,Mahindra,Scorpio,2026,Brand New,Manual,,Diesel,2179.0,0.0,Ratnapura,Ratnapura City,1,Mahindra Scorpio
+80000000,Land Rover,Defender,2025,Brand New,Tiptronic,SUV / 4x4,Hybrid,2000.0,0.0,Colombo,Kohuwala,1,Land Rover Defender
+1380000,Hyundai,Accent,1994,Used,Manual,Saloon,Petrol,1500.0,127560.0,Colombo,Kolonnawa,0,Hyundai Accent
+60000000,BMW,523i,2024,Import,Tiptronic,Saloon,Hybrid,2000.0,8000.0,Colombo,Kohuwala,1,BMW 523i
+10350000,Toyota,Yaris,2024,Reconditioned,Automatic,Hatchback,Petrol,1000.0,13500.0,Colombo,Nugegoda,1,Toyota Yaris
+8250000,Nissan,Magnite,2026,Brand New,Automatic,SUV / 4x4,Petrol,1000.0,1.0,Colombo,Kotikawatta,1,Nissan Magnite
+5500000,Mitsubishi,Pajero,1987,Used,Manual,SUV / 4x4,Diesel,2500.0,350000.0,Gampaha,Veyangoda,0,Mitsubishi Pajero
+8800000,Suzuki,Wagon R,2025,Brand New,Automatic,Hatchback,Petrol,650.0,8.0,Gampaha,Veyangoda,1,Suzuki Wagon R
+3000000,Suzuki,Spacia,2024,Reconditioned,Automatic,Station wagon,Hybrid,660.0,4000.0,Colombo,Malabe,1,Suzuki Spacia
+21350000,Honda,Vezel,2025,Brand New,Automatic,Saloon,Hybrid,1500.0,1.0,Gampaha,Kandana,0,Honda Vezel
+7450000,Toyota,Allion,2007,Used,Automatic,Saloon,Petrol,1500.0,185000.0,Gampaha,Kadawatha,1,Toyota Allion
+10389000,BMW,320i,2007,Used,Automatic,Saloon,Petrol,1955.0,96000.0,Gampaha,Kiribathgoda,0,BMW 320i
+13000000,Honda,Vezel,2017,Used,Automatic,SUV / 4x4,Hybrid,1490.0,261000.0,Colombo,Colombo 2,0,Honda Vezel
+8975000,Nissan,ROOX HIGHWAY STAR X,2024,Reconditioned,Automatic,MPV,Hybrid,659.0,29000.0,Gampaha,Kandana,0,Nissan ROOX HIGHWAY STAR X
+6475000,Suzuki,Alto,2023,Reconditioned,Automatic,,Petrol,650.0,8500.0,Colombo,Kottawa,1,Suzuki Alto
+8200000,Toyota,Axio,2013,Used,Automatic,Saloon,Petrol,1500.0,160000.0,Polonnaruwa,Polonnaruwa City,0,Toyota Axio
+19200000,Honda,Vezel,2026,Brand New,Automatic,SUV / 4x4,Petrol,1500.0,0.0,Colombo,Kohuwala,1,Honda Vezel
+7100000,Toyota,Vitz,2016,Used,Automatic,Hatchback,Petrol,1000.0,123000.0,Gampaha,Kirindiwela,0,Toyota Vitz
+16600000,Toyota,Yaris Cross,2025,Import,Automatic,SUV / 4x4,Hybrid,1500.0,10000.0,Gampaha,Veyangoda,1,Toyota Yaris Cross
+4000000,Zotye,Z100,2018,Used,Manual,Hatchback,Petrol,1000.0,24607.0,Kalutara,Wadduwa,0,Zotye Z100
+12500000,Toyota,Crown,2008,Used,Automatic,Saloon,Petrol,3500.0,142000.0,Colombo,Kotte,0,Toyota Crown
